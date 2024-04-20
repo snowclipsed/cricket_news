@@ -163,3 +163,6 @@ extracted/
 revised/
 chunks/
 match.txt
+config
+config.yaml
+secrets.yaml

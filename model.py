@@ -6,18 +6,19 @@ class Model:
         self.model_name = model_name
         self.client = Client(host='http://localhost:11434')
 
-    def get_prompt_template(self, task):
+    def get_prompt_template(self, task, type):
         file_path = 'prompt_templates'
-        with open(f'{file_path}/{task}.txt', 'r') as file:
+        with open(f'{file_path}/{task}/{type}.txt', 'r') as file:
             content = file.read()
         return content
     
-    def response(self, text, template):
+    def response(self, template, text):
         messages = [
             {
                 'role': 'user',
                 'content': template + text,
             },
         ]
-        response = self.client.chat(model=self.model_name, messages=messages)
-        return response['message']['content']
+        response = self.client.generate(self.model_name, template + text)
+        print(response['response'])
+        return response['response']

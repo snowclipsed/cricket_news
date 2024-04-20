@@ -23,8 +23,14 @@ if __name__ == '__main__':
     paths = config['paths']
     base = paths['base']
     
-    chunk = Chunk('over')
-    model = Model('gemma:2b')
+    # chunk = Chunk('overs')
+    # model = Model('gemma:2b')
     
+    # extract(chunk, model, base)
+    # revise(chunk, model, base)
+
+    chunk = Chunk('prematch')
+    model = Model('orca-mini')
+
     extract(chunk, model, base)
     revise(chunk, model, base)
