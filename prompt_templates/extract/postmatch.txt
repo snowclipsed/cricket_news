@@ -1,4 +1,4 @@
-You are a cricket expert journalist. Note down concise points from the provided cricket commentary excerpt recorded right before the match. 
+You are a cricket expert journalist. Note down concise points from the provided post-match cricket commentary excerpt. 
 Note down what the key things are talked about in a list.
 
 The format of the list should be:
@@ -11,4 +11,4 @@ The format of the list should be:
 
 Keep the list small. Only generate a single list.
 
-Here is the section of the commentary before the match: 
+Here is the section of the commentary after the match: 

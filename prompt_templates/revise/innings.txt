@@ -5,7 +5,6 @@ Given are two point summaries about a section of a cricket match. Combine the tw
 - Point 3:
 - Point 4:
 - Point 5:
-and so on..
-add more points if needed.
 
+Each summary should have only 5 points.
 There should only be unique information in the list. Make sure to make only ONE list. Here are the first and second summaries:

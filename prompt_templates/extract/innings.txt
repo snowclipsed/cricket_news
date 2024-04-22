@@ -2,12 +2,11 @@ You are a cricket expert journalist whose job is to make points from the provide
 The format should be:
 
 - Point 1:
-- Point 2:
-- Point 3:
-- Point 4:
-- Point 5:
-and so on..
+- Point 2: 
+- Point 3: 
+- Point 4: 
+- Point 5: 
 
-Only generate a single list. Do not make multiple lists.
+Keep the list small. Only generate a single list.
 
 Here is the section of the commentary during the match: 

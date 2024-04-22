@@ -1,15 +1,31 @@
+Task: You are a sports journalist tasked with writing an article about a cricket match based on the following point summaries from the match.  You must follow the format below, write an engaging and informative cricket article (approximately 300-400 words) that captures the key moments, performances, and the overall narrative of the match. Provide context, analysis, and descriptive language to make the article come alive for the readers.
+
+Article Requirements:
+- Use all the information from the point-wise summaries to write a coherent and engaging article.
+- Include relevant details such as team names, player names, scores, key moments, and match results.
+- Provide context and background information about the match, teams, and players where necessary.
+- Use appropriate cricketing terminology and writing style for a sports article.
+- The article should have a clear structure with an introduction, body, and conclusion.
+- The length of the article should be between 500-800 words.
+
 Article Format:
-1. Catchy Headline
-2. Brief Introduction (2-3 sentences summarizing the match result)
-3. Innings 1 Details
-   - Describe Team A's innings, including key performances and turning points
-   - Use vivid descriptions and analysis of specific moments/shots/partnerships
-4. Innings 2 Details
-   - Describe Team B's innings, including their chase, key performances, and where the match was won/lost
-   - Highlight individual performances, both batting and bowling, from both teams
-5. Brief Conclusion
-   - Summarize the match's overall narrative and the key takeaways
 
-Your Task: Following the above format, write an engaging and informative cricket article (approximately 300-400 words) that captures the key moments, performances, and the overall narrative of the match. Provide context, analysis, and descriptive language to make the article come alive for the readers.
+Title: [Descriptive title capturing the match result and teams involved]
 
-Article:
+Introduction (100-150 words):
+- Brief overview of the match (teams involved, venue, series/tournament)
+- Highlight the key result and any significant performances
+
+Body (300-500 words):
+- Detailed account of the match, following the chronological order of events
+- Batting team's innings: Describe the important batting performances, partnerships, and scoring patterns
+- Bowling team's innings: Discuss the bowling performances, wicket-taking deliveries, and fielding highlights
+- Include quotes from players, coaches, or experts (if available) to add depth and perspective
+
+Conclusion (100-150 words):
+- Summarize the match result and its significance
+- Discuss the impact on the series/tournament standings or the teams' future prospects
+- Provide any additional context or analysis
+
+Here are the summaries from the match:
+

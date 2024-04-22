@@ -1,11 +1,11 @@
-Given are two point summaries about a section of a cricket commentary. Combine the two lists into a single list with the given format:
+Given are two point summaries from the section of a cricket commentary before the match starts. Combine the two lists into a single list with the given format:
 
 - Point 1:
 - Point 2:
 - Point 3:
 - Point 4:
 - Point 5:
-and so on..
-add more points if needed.
+
+Keep the list small. Only generate a single list. 
 
 Here are the first and second summaries:
