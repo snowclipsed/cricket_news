@@ -1,2 +1,6 @@
 paths:
-  base: '/home/snow/NEU/CS6120/cricket_news/'
+  base: '/home/snow/NEU/cricket_news/'
+  data: 'data/'
+  commentary: '66169_commentary.csv'
+  scorecard: '66169_scorecard.csv'
+  highlights: '66169_highlights.csv'
