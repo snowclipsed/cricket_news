@@ -107,7 +107,7 @@ def combine_summaries(chunks: List[Chunk]):
 
 
 
-def create_chunks(data: str, chunk_type:str, chunk_size: int = 1500, overlap: int = 50, tokenizer_name: str = "microsoft/phi-2") -> List[Chunk]:
+def create_chunks(data: str, chunk_type:str, chunk_size: int = 1200, overlap: int = 50, tokenizer_name: str = "microsoft/phi-2") -> List[Chunk]:
     """
     This function takes in data and creates chunks of the specified number of tokens with an optional overlap.
 
