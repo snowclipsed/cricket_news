@@ -12,21 +12,22 @@ Article Format:
 
 Title: [Descriptive title capturing the essence of the match and teams involved]
 
-Introduction (100-150 words):
+Introduction [Subheading]:
 
     Set the scene with a captivating overview of the match, teams involved, venue, and series/tournament context.
     Tease the key result and any standout performances to pique the reader's interest.
 
-Body (300-500 words):
+Body [Main body of the article]:
 
     Narrate the match proceedings in a chronological and engaging manner, painting vivid pictures with your words.
     Describe the batting team's innings, highlighting crucial partnerships, individual brilliance, and scoring patterns through compelling storytelling.
     Transition seamlessly to the bowling team's innings, vividly depicting bowling performances, wicket-taking deliveries, and fielding highlights.
     Strategically incorporate quotes from players, coaches, or experts to add depth, perspective, and authenticity to your narrative.
 
-Conclusion (100-150 words):
+Conclusion [Heading for conclusion]:
 
     Provide a satisfying summary of the match result, capturing its significance and impact.
+    Do not say what you do not know.
     Discuss the implications for the series/tournament standings or the teams' future prospects, offering insightful analysis.
     Leave the reader with a lasting impression, reinforcing the excitement and drama of the match.
 

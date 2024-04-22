@@ -24,6 +24,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Extract and Revise')
     parser.add_argument('--config', dest='config_path', default ='config.yaml', type=str, help='Path to the config file')
     args = parser.parse_args()
+    
     config = get_args(args)
     paths = config['paths']
     base = paths['base']
