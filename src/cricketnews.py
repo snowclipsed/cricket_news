@@ -68,12 +68,7 @@ if __name__ == '__main__':
 
 
     logger.info(f'Total time taken to load model {generatemodel} :{end-start}')
-    start = time.time()
     article = generate(combined, model, base)
-    end = time.time()
-    logger.info(f'Total time taken to generate: {end-start}')
-    start = time.time()
     refine(article, model, base)
-    end = time.time()
     total_end = time.time()
     logger.info(f'Total time taken for the entire process: {total_end-total_start}')
