@@ -13,12 +13,15 @@ class Model:
         return content
     
     def response(self, template, text):
-        messages = [
-            {
-                'role': 'user',
-                'content': template + text,
-            },
-        ]
-        response = self.client.generate(self.model_name, template + text)
+        # messages = [
+        #     {
+        #         'role': 'user',
+        #         'content': template + text,
+        #     },
+        # ]
+        if self.model_name == 'llama3':
+            response = self.client.generate(self.model_name, template + text, options={'num_ctx': 5000})
+        else:
+            response = self.client.generate(self.model_name, template + text)
         # print(response['response'])
         return response['response']
