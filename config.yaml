@@ -4,3 +4,7 @@ paths:
   commentary: '66169_commentary.csv'
   scorecard: '66169_scorecard.csv'
   highlights: '66169_highlights.csv'
+models:
+  extract: 'dolphin-phi'
+  revise: 'dolphin-phi'
+  generate: 'llama3'

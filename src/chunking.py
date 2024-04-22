@@ -61,7 +61,7 @@ class Match():
         self.innings = List[Chunk]
         self.postmatch = List[Chunk]
 
-    def load_commentaries(self, chunk_size:int = 1000):
+    def load_commentaries(self):
         """
         Takes in commentary data from a file and loads all of it into a data class object.
         """
@@ -79,17 +79,17 @@ class Match():
         
         # create chunks
         prematch_text = combine_text_column(prematch)
-        self.prematch = create_chunks(prematch_text, chunk_size)
+        self.prematch = create_chunks(prematch_text, chunk_type='prematch')
         logger.info(f"Number of prematch chunks: {len(self.prematch)}")
 
 
         innings_text = combine_text_column(innings)
         # print(innings_text)
-        self.innings = create_chunks(innings_text, chunk_size)
+        self.innings = create_chunks(innings_text, chunk_type='innings')
         logger.info(f"Number of innings chunks: {len(self.innings)}")
 
         postmatch_text = combine_text_column(postmatch)
-        self.postmatch = create_chunks(postmatch_text, chunk_size)
+        self.postmatch = create_chunks(postmatch_text, chunk_type='postmatch')
         logger.info(f"Number of postmatch chunks: {len(self.postmatch)}")
 
 def combine_summaries(chunks: List[Chunk]):
@@ -107,7 +107,7 @@ def combine_summaries(chunks: List[Chunk]):
 
 
 
-def create_chunks(data: str, chunk_type:str, chunk_size: int = 1000, overlap: int = 50, tokenizer_name: str = "microsoft/phi-2") -> List[Chunk]:
+def create_chunks(data: str, chunk_type:str, chunk_size: int = 1500, overlap: int = 50, tokenizer_name: str = "microsoft/phi-2") -> List[Chunk]:
     """
     This function takes in data and creates chunks of the specified number of tokens with an optional overlap.
 
@@ -139,4 +139,4 @@ def create_chunks(data: str, chunk_type:str, chunk_size: int = 1000, overlap: in
 
     return chunks
 
-# Match('/home/snow/NEU/cricket_news/data/dataset/66169_commentary.csv').load_commentaries()
+# Match('/home/snow/NEU/cricket_news/data/66169_commentary.csv').load_commentaries()
