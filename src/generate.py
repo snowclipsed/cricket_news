@@ -15,7 +15,7 @@ If the type is 'points' then llama3 will generate a summary of the combined summ
 def generate(combined_summary:str, model:Model, base):
     
     start = time.time()    
-    article = model.response(model.get_prompt_template(task='generate', type = 'starter') + model.get_prompt_template(task='generate', type = 'metadata') , combined_summary + model.get_prompt_template(task='generate', type = 'format'))
+    article = model.response(model.get_prompt_template(task='generate', type = 'metadata') + model.get_prompt_template(task='generate', type = 'article') , combined_summary)
     end = time.time()
     logger.info(f'Total time taken to generate: {end-start}')
     
@@ -27,3 +27,4 @@ def generate(combined_summary:str, model:Model, base):
         file.write(article)
         
     logger.info('Final summary created successfully at base/final_summary/final_summary.txt.')
+    return article

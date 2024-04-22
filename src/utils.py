@@ -45,6 +45,10 @@ def metadata_template(match_id:int, base:str):
 
     with open(base + 'prompt_templates/generate/metadata.txt', 'w') as file:
         file.write(metadata)
+
+    with open(base + 'prompt_templates/refine/metadata.txt', 'w') as file:
+        file.write(metadata)
+
     logger.info('Metadata template created successfully.')
     return year, team1, team2, venue, city
 

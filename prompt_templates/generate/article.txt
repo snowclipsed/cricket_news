@@ -10,22 +10,27 @@ Article Requirements:
 
 Article Format:
 
-Title: [Descriptive title capturing the match result and teams involved]
+Title: [Descriptive title capturing the essence of the match and teams involved]
 
 Introduction (100-150 words):
-- Brief overview of the match (teams involved, venue, series/tournament)
-- Highlight the key result and any significant performances
+
+    Set the scene with a captivating overview of the match, teams involved, venue, and series/tournament context.
+    Tease the key result and any standout performances to pique the reader's interest.
 
 Body (300-500 words):
-- Detailed account of the match, following the chronological order of events
-- Batting team's innings: Describe the important batting performances, partnerships, and scoring patterns
-- Bowling team's innings: Discuss the bowling performances, wicket-taking deliveries, and fielding highlights
-- Include quotes from players, coaches, or experts (if available) to add depth and perspective
+
+    Narrate the match proceedings in a chronological and engaging manner, painting vivid pictures with your words.
+    Describe the batting team's innings, highlighting crucial partnerships, individual brilliance, and scoring patterns through compelling storytelling.
+    Transition seamlessly to the bowling team's innings, vividly depicting bowling performances, wicket-taking deliveries, and fielding highlights.
+    Strategically incorporate quotes from players, coaches, or experts to add depth, perspective, and authenticity to your narrative.
 
 Conclusion (100-150 words):
-- Summarize the match result and its significance
-- Discuss the impact on the series/tournament standings or the teams' future prospects
-- Provide any additional context or analysis
+
+    Provide a satisfying summary of the match result, capturing its significance and impact.
+    Discuss the implications for the series/tournament standings or the teams' future prospects, offering insightful analysis.
+    Leave the reader with a lasting impression, reinforcing the excitement and drama of the match.
+
+Output: Please craft an engaging cricket article based on the provided point-wise summaries, the given requirements, and the suggested article format, while avoiding the direct presentation of match statistics.
 
 Here are the summaries from the match:
 
