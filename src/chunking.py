@@ -55,11 +55,12 @@ class Chunk():
     
 
 class Match():
-    def __init__(self, data_path:str = None):
+    def __init__(self, data_path:str = None, highlights:bool = True):
         self.data_path = data_path
         self.prematch = List[Chunk]
         self.innings = List[Chunk]
         self.postmatch = List[Chunk]
+        self.highlights = highlights
 
     def load_commentaries(self):
         """
@@ -69,10 +70,14 @@ class Match():
         if os.path.exists(path):
             if path.endswith('.csv'):
                 commentary = pd.read_csv(path)
+                highlights = pd.read_csv(path.replace('commentary', 'highlights'))
                 prematch = commentary[commentary['over_number'] == 'preview']
                 postmatch = commentary[commentary['over_number'] == 'post']
-                innings = commentary[commentary['over_number'] != 'preview']
-                innings = innings[innings['over_number'] != 'post']
+                if self.highlights:
+                    innings = highlights
+                else:
+                    innings = commentary[commentary['over_number'] != 'preview']
+                    innings = innings[innings['over_number'] != 'post']
         else:
             logger.error("File does not exist.")
             return None
