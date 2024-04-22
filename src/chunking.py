@@ -1,24 +1,36 @@
 import os
 import pandas as pd
+from typing import List
+from utils import combine_text_column
+from loguru import logger
+from transformers import AutoTokenizer
 
 class Chunk():
-    def __init__(self, chunk_type = 'over', chunk_id:int = 0, chunk_size = 1000, chunk_text = None):
+    """
+        It is a dataclass which stores a chunk of text data.
+    """
+    def __init__(self, chunk_type = 'innings', chunk_id:int = 0, chunk_text = None):
         self.chunk_type = chunk_type
-        self.chunk_size = chunk_size
         self.chunk_text = chunk_text
         self.chunk_id = chunk_id
         self.chunk_extracts = []
         self.chunk_revised = ''
 
-    def load_text(self, path):
-        if os.path.exists(path):
-            if path.endswith('.txt'):
-                with open(path, 'r') as file:
-                    self.chunk_text = file.read()
-            # if path.endswith('.csv'):
-            #     commentary = pd.read_csv(path)
-        else:
-            print("File does not exist.")
+    # def load_text(self, path):
+    #     """
+    #     temporary function to load text from a file
+
+    #     modify this to take data from the match class instead
+        
+    #     """
+    #     if os.path.exists(path):
+    #         if path.endswith('.txt'):
+    #             with open(path, 'r') as file:
+    #                 self.chunk_text = file.read()
+    #         # if path.endswith('.csv'):
+    #         #     commentary = pd.read_csv(path)
+    #     else:
+    #         logger.error("File does not exist.")
 
 
     def set_chunk_extracts(self, chunk_extract):
@@ -42,3 +54,89 @@ class Chunk():
         return self.chunk_text
     
 
+class Match():
+    def __init__(self, data_path:str = None):
+        self.data_path = data_path
+        self.prematch = List[Chunk]
+        self.innings = List[Chunk]
+        self.postmatch = List[Chunk]
+
+    def load_commentaries(self, chunk_size:int = 1000):
+        """
+        Takes in commentary data from a file and loads all of it into a data class object.
+        """
+        path = self.data_path
+        if os.path.exists(path):
+            if path.endswith('.csv'):
+                commentary = pd.read_csv(path)
+                prematch = commentary[commentary['over_number'] == 'preview']
+                postmatch = commentary[commentary['over_number'] == 'post']
+                innings = commentary[commentary['over_number'] != 'preview']
+                innings = innings[innings['over_number'] != 'post']
+        else:
+            logger.error("File does not exist.")
+            return None
+        
+        # create chunks
+        prematch_text = combine_text_column(prematch)
+        self.prematch = create_chunks(prematch_text, chunk_size)
+        logger.info(f"Number of prematch chunks: {len(self.prematch)}")
+
+
+        innings_text = combine_text_column(innings)
+        # print(innings_text)
+        self.innings = create_chunks(innings_text, chunk_size)
+        logger.info(f"Number of innings chunks: {len(self.innings)}")
+
+        postmatch_text = combine_text_column(postmatch)
+        self.postmatch = create_chunks(postmatch_text, chunk_size)
+        logger.info(f"Number of postmatch chunks: {len(self.postmatch)}")
+
+def combine_summaries(chunks: List[Chunk]):
+    """
+    This function will combine all the summaries into one single summary.
+
+    Needs to be done in temporal order.
+
+    NOTE: Add metadata into it later.
+    """
+    combined_summary = ''
+    for chunk in chunks:
+        combined_summary += chunk.revised + '\n'
+    return combined_summary
+
+
+
+def create_chunks(data: str, chunk_type:str, chunk_size: int = 1000, overlap: int = 50, tokenizer_name: str = "microsoft/phi-2") -> List[Chunk]:
+    """
+    This function takes in data and creates chunks of the specified number of tokens with an optional overlap.
+
+    Args:
+        data (str): The input text data to be chunked.
+        chunk_size (int, optional): The desired number of tokens in each chunk. Defaults to 100.
+        overlap (int, optional): The number of tokens to overlap between consecutive chunks. Defaults to 0.
+        tokenizer_name (str, optional): The name of the tokenizer to use (from the Hugging Face Transformers library). Defaults to "phi-2".
+
+    Returns:
+        List[Chunk]: A list of Chunk objects containing the chunked text.
+    """
+    # add metadata
+
+    chunks = []
+    tokenizer = AutoTokenizer.from_pretrained(tokenizer_name)
+    tokens = tokenizer.tokenize(data)
+    start = 0
+    end = chunk_size
+    chunk_id = 0
+
+    while start < len(tokens):
+        chunk_tokens = tokens[start:end]
+        chunk_text = tokenizer.convert_tokens_to_string(chunk_tokens)
+        chunks.append(Chunk(chunk_id=chunk_id, chunk_type=chunk_type, chunk_text=chunk_text))
+        start = end - overlap
+        end = start + chunk_size
+        chunk_id += 1
+
+    return chunks
+
+# Match('/home/snow/NEU/cricket_news/data/dataset/66169_commentary.csv').load_commentaries()
