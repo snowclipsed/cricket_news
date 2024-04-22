@@ -1,6 +1,7 @@
 from model import Model
 from loguru import logger
 import time
+import os
 
 """
 This function should take in the combined summary points all at once and then should call llama3 to 
@@ -19,6 +20,10 @@ def generate(combined_summary:str, model:Model, base):
     logger.info(f'Total time taken to generate: {end-start}')
     
     # write combined summary to file
+    if not os.path.exists(base+'final_summary'):
+        os.makedirs(base+'final_summary')
+
     with open(base+'final_summary/final_summary.txt', 'w') as file:
         file.write(article)
-
+        
+    logger.info('Final summary created successfully at base/final_summary/final_summary.txt.')
