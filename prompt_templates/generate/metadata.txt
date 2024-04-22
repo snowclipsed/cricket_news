@@ -1,0 +1,6 @@
+The match happened on 0    2023
+Name: year, dtype: int64 between 0    Gujarat Titans
+Name: team1, dtype: object and 0    Chennai Super Kings
+Name: team2, dtype: object at 0    Motera Gujarat Stadium, Sardar Patel Stadium
+Name: venue, dtype: object in 0    Ahmedabad
+Name: city, dtype: object.

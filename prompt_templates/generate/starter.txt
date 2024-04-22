@@ -1,0 +1,15 @@
+Article Format:
+1. Catchy Headline
+2. Brief Introduction (2-3 sentences summarizing the match result)
+3. Innings 1 Details
+   - Describe Team A's innings, including key performances and turning points
+   - Use vivid descriptions and analysis of specific moments/shots/partnerships
+4. Innings 2 Details
+   - Describe Team B's innings, including their chase, key performances, and where the match was won/lost
+   - Highlight individual performances, both batting and bowling, from both teams
+5. Brief Conclusion
+   - Summarize the match's overall narrative and the key takeaways
+
+Your Task: Following the above format, write an engaging and informative cricket article (approximately 300-400 words) that captures the key moments, performances, and the overall narrative of the match. Provide context, analysis, and descriptive language to make the article come alive for the readers.
+
+Article:
