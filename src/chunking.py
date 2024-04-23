@@ -55,27 +55,30 @@ class Chunk():
     
 
 class Match():
-    def __init__(self, data_path:str = None, chunk_dir:str = None, save_chunk:bool = True, highlights:bool = True):
+    def __init__(self, data_path:str = None, commentary:str=None, highlights:str=None, chunk_dir:str = None, save_chunk:bool = True, showhighlights:bool = True):
         self.data_path = data_path
+        self.commentary_path = data_path + commentary
+        self.highlights_path = data_path + highlights
         self.prematch = List[Chunk]
         self.innings = List[Chunk]
         self.postmatch = List[Chunk]
         self.chunk_dir = chunk_dir
         self.save_chunk = save_chunk
-        self.highlights = highlights
+        self.showhighlights = showhighlights
 
     def load_commentaries(self):
         """
         Takes in commentary data from a file and loads all of it into a data class object.
         """
-        path = self.data_path
-        if os.path.exists(path):
-            if path.endswith('.csv'):
-                commentary = pd.read_csv(path)
-                highlights = pd.read_csv(path.replace('commentary', 'highlights'))
+        commentary_path = self.commentary_path
+        highlights_path = self.highlights_path
+        if os.path.exists(commentary_path):
+            if commentary_path.endswith('.csv'):
+                commentary = pd.read_csv(commentary_path)
+                highlights = pd.read_csv(highlights_path)
                 prematch = commentary[commentary['over_number'] == 'preview']
                 postmatch = commentary[commentary['over_number'] == 'post']
-                if self.highlights:
+                if self.showhighlights:
                     innings = highlights
                 else:
                     innings = commentary[commentary['over_number'] != 'preview']
