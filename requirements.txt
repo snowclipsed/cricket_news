@@ -2,4 +2,3 @@ loguru
 pandas
 pyyaml
 argparse
-ollama
