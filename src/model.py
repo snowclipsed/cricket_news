@@ -19,7 +19,7 @@ class Model:
         #         'content': template + text,
         #     },
         # ]
-        if self.model_name == 'llama3':
+        if self.model_name == 'llama3' or self.model_name == 'mistral':
             response = self.client.generate(self.model_name, template + text, options={'num_ctx': 5000})
         else:
             response = self.client.generate(self.model_name, template + text)
