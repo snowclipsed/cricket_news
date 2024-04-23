@@ -1,0 +1,4201 @@
+{
+  "matchDetails": [
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 31 Mar 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66169,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "1st Match",
+              "matchFormat": "T20",
+              "startDate": "1680271200000",
+              "endDate": "1680271200000",
+              "state": "complete",
+              "status": "Gujarat Titans won by 5 wkts",
+              "team1": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 971,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 182,
+                  "wickets": 5,
+                  "overs": 19.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 178,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_1",
+        "layout": "native_large",
+        "position": 1
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 01 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66173,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "2nd Match",
+              "matchFormat": "T20",
+              "startDate": "1680343200000",
+              "endDate": "1680343200000",
+              "state": "complete",
+              "status": "Punjab Kings won by 7 runs (DLS method)",
+              "team1": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "ground": "Punjab Cricket Association IS Bindra Stadium",
+                "city": "Mohali",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 65,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 191,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 146,
+                  "wickets": 7,
+                  "overs": 16.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66176,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "3rd Match",
+              "matchFormat": "T20",
+              "startDate": "1680357600000",
+              "endDate": "1680357600000",
+              "state": "complete",
+              "status": "Lucknow Super Giants won by 50 runs",
+              "team1": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 966,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 193,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 143,
+                  "wickets": 9,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 02 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66183,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "4th Match",
+              "matchFormat": "T20",
+              "startDate": "1680429600000",
+              "endDate": "1680429600000",
+              "state": "complete",
+              "status": "Rajasthan Royals won by 72 runs",
+              "team1": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 64,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 131,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 203,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66190,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "5th Match",
+              "matchFormat": "T20",
+              "startDate": "1680444000000",
+              "endDate": "1680444000000",
+              "state": "complete",
+              "status": "Royal Challengers Bangalore won by 8 wkts",
+              "team1": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 59,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 172,
+                  "wickets": 2,
+                  "overs": 16.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 171,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 03 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66197,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "6th Match",
+              "matchFormat": "T20",
+              "startDate": "1680530400000",
+              "endDate": "1680530400000",
+              "state": "complete",
+              "status": "Chennai Super Kings won by 12 runs",
+              "team1": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "venueInfo": {
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 58,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 217,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 205,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_2",
+        "layout": "native_large",
+        "position": 4
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 04 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66204,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "7th Match",
+              "matchFormat": "T20",
+              "startDate": "1680616800000",
+              "endDate": "1680616800000",
+              "state": "complete",
+              "status": "Gujarat Titans won by 6 wkts",
+              "team1": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 971,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 162,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 163,
+                  "wickets": 4,
+                  "overs": 18.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 05 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66208,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "8th Match",
+              "matchFormat": "T20",
+              "startDate": "1680703200000",
+              "endDate": "1680703200000",
+              "state": "complete",
+              "status": "Punjab Kings won by 5 runs",
+              "team1": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "ground": "Barsapara Cricket Stadium",
+                "city": "Guwahati",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 65,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 192,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 197,
+                  "wickets": 4,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 06 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66211,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "9th Match",
+              "matchFormat": "T20",
+              "startDate": "1680789600000",
+              "endDate": "1680789600000",
+              "state": "complete",
+              "status": "Kolkata Knight Riders won by 81 runs",
+              "team1": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 63,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 204,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 123,
+                  "wickets": 10,
+                  "overs": 17.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 07 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66215,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "10th Match",
+              "matchFormat": "T20",
+              "startDate": "1680876000000",
+              "endDate": "1680876000000",
+              "state": "complete",
+              "status": "Lucknow Super Giants won by 5 wkts",
+              "team1": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 966,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 127,
+                  "wickets": 5,
+                  "overs": 16.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 121,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 08 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66218,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "11th Match",
+              "matchFormat": "T20",
+              "startDate": "1680948000000",
+              "endDate": "1680948000000",
+              "state": "complete",
+              "status": "Rajasthan Royals won by 57 runs",
+              "team1": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "ground": "Barsapara Cricket Stadium",
+                "city": "Guwahati",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 64,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 199,
+                  "wickets": 4,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 142,
+                  "wickets": 9,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66225,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "12th Match",
+              "matchFormat": "T20",
+              "startDate": "1680962400000",
+              "endDate": "1680962400000",
+              "state": "complete",
+              "status": "Chennai Super Kings won by 7 wkts",
+              "team1": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 58,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 157,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 159,
+                  "wickets": 3,
+                  "overs": 18.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 09 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66232,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "13th Match",
+              "matchFormat": "T20",
+              "startDate": "1681034400000",
+              "endDate": "1681034400000",
+              "state": "complete",
+              "status": "Kolkata Knight Riders won by 3 wkts",
+              "team1": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 63,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 204,
+                  "wickets": 4,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 207,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66236,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "14th Match",
+              "matchFormat": "T20",
+              "startDate": "1681048800000",
+              "endDate": "1681048800000",
+              "state": "complete",
+              "status": "Sunrisers Hyderabad won by 8 wkts",
+              "team1": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 255,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 145,
+                  "wickets": 2,
+                  "overs": 17.1
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 143,
+                  "wickets": 9,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 10 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66239,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "15th Match",
+              "matchFormat": "T20",
+              "startDate": "1681135200000",
+              "endDate": "1681135200000",
+              "state": "complete",
+              "status": "Lucknow Super Giants won by 1 wkt",
+              "team1": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "venueInfo": {
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 966,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 212,
+                  "wickets": 2,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 213,
+                  "wickets": 9,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 11 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66243,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "16th Match",
+              "matchFormat": "T20",
+              "startDate": "1681221600000",
+              "endDate": "1681221600000",
+              "state": "complete",
+              "status": "Mumbai Indians won by 6 wkts",
+              "team1": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 62,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 172,
+                  "wickets": 10,
+                  "overs": 19.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 173,
+                  "wickets": 4,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 12 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66250,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "17th Match",
+              "matchFormat": "T20",
+              "startDate": "1681308000000",
+              "endDate": "1681308000000",
+              "state": "complete",
+              "status": "Rajasthan Royals won by 3 runs",
+              "team1": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 64,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 172,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 175,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 13 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66253,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "18th Match",
+              "matchFormat": "T20",
+              "startDate": "1681394400000",
+              "endDate": "1681394400000",
+              "state": "complete",
+              "status": "Gujarat Titans won by 6 wkts",
+              "team1": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "ground": "Punjab Cricket Association IS Bindra Stadium",
+                "city": "Mohali",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 971,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 153,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 154,
+                  "wickets": 4,
+                  "overs": 19.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 14 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66257,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "19th Match",
+              "matchFormat": "T20",
+              "startDate": "1681480800000",
+              "endDate": "1681480800000",
+              "state": "complete",
+              "status": "Sunrisers Hyderabad won by 23 runs",
+              "team1": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 255,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 205,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 228,
+                  "wickets": 4,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 15 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66260,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "20th Match",
+              "matchFormat": "T20",
+              "startDate": "1681552800000",
+              "endDate": "1681552800000",
+              "state": "complete",
+              "status": "Royal Challengers Bangalore won by 23 runs",
+              "team1": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 59,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 174,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 151,
+                  "wickets": 9,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66264,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "21st Match",
+              "matchFormat": "T20",
+              "startDate": "1681567200000",
+              "endDate": "1681567200000",
+              "state": "complete",
+              "status": "Punjab Kings won by 2 wkts",
+              "team1": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 65,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 159,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 161,
+                  "wickets": 8,
+                  "overs": 19.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 16 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66271,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "22nd Match",
+              "matchFormat": "T20",
+              "startDate": "1681639200000",
+              "endDate": "1681639200000",
+              "state": "complete",
+              "status": "Mumbai Indians won by 5 wkts",
+              "team1": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 62,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 186,
+                  "wickets": 5,
+                  "overs": 17.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 185,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66274,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "23rd Match",
+              "matchFormat": "T20",
+              "startDate": "1681653600000",
+              "endDate": "1681653600000",
+              "state": "complete",
+              "status": "Rajasthan Royals won by 3 wkts",
+              "team1": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 64,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 177,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 179,
+                  "wickets": 7,
+                  "overs": 19.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 17 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66278,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "24th Match",
+              "matchFormat": "T20",
+              "startDate": "1681740000000",
+              "endDate": "1681740000000",
+              "state": "complete",
+              "status": "Chennai Super Kings won by 8 runs",
+              "team1": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 58,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 218,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 226,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 18 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66285,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "25th Match",
+              "matchFormat": "T20",
+              "startDate": "1681826400000",
+              "endDate": "1681826400000",
+              "state": "complete",
+              "status": "Mumbai Indians won by 14 runs",
+              "team1": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 62,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 178,
+                  "wickets": 10,
+                  "overs": 19.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 192,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 19 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66292,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "26th Match",
+              "matchFormat": "T20",
+              "startDate": "1681912800000",
+              "endDate": "1681912800000",
+              "state": "complete",
+              "status": "Lucknow Super Giants won by 10 runs",
+              "team1": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "venueInfo": {
+                "ground": "Sawai Mansingh Stadium",
+                "city": "Jaipur",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 966,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 144,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 154,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 20 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66313,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "27th Match",
+              "matchFormat": "T20",
+              "startDate": "1681984800000",
+              "endDate": "1681984800000",
+              "state": "complete",
+              "status": "Royal Challengers Bangalore won by 24 runs",
+              "team1": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "ground": "Punjab Cricket Association IS Bindra Stadium",
+                "city": "Mohali",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 59,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 150,
+                  "wickets": 10,
+                  "overs": 18.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 174,
+                  "wickets": 4,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66330,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "28th Match",
+              "matchFormat": "T20",
+              "startDate": "1681999200000",
+              "endDate": "1681999200000",
+              "state": "complete",
+              "status": "Delhi Capitals won by 4 wkts",
+              "team1": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 61,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 128,
+                  "wickets": 6,
+                  "overs": 19.2
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 127,
+                  "wickets": 10,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 21 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66351,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "29th Match",
+              "matchFormat": "T20",
+              "startDate": "1682085600000",
+              "endDate": "1682085600000",
+              "state": "complete",
+              "status": "Chennai Super Kings won by 7 wkts",
+              "team1": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 58,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 138,
+                  "wickets": 3,
+                  "overs": 18.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 134,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 22 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66369,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "30th Match",
+              "matchFormat": "T20",
+              "startDate": "1682157600000",
+              "endDate": "1682157600000",
+              "state": "complete",
+              "status": "Gujarat Titans won by 7 runs",
+              "team1": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 971,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 128,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 135,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66404,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "31st Match",
+              "matchFormat": "T20",
+              "startDate": "1682172000000",
+              "endDate": "1682172000000",
+              "state": "complete",
+              "status": "Punjab Kings won by 13 runs",
+              "team1": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 65,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 201,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 214,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 23 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66421,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "32nd Match",
+              "matchFormat": "T20",
+              "startDate": "1682244000000",
+              "endDate": "1682244000000",
+              "state": "complete",
+              "status": "Royal Challengers Bangalore won by 7 runs",
+              "team1": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 59,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 189,
+                  "wickets": 9,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 182,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66435,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "33rd Match",
+              "matchFormat": "T20",
+              "startDate": "1682258400000",
+              "endDate": "1682258400000",
+              "state": "complete",
+              "status": "Chennai Super Kings won by 49 runs",
+              "team1": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 58,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 186,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 235,
+                  "wickets": 4,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 24 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66449,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "34th Match",
+              "matchFormat": "T20",
+              "startDate": "1682344800000",
+              "endDate": "1682344800000",
+              "state": "complete",
+              "status": "Delhi Capitals won by 7 runs",
+              "team1": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 61,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 137,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 144,
+                  "wickets": 9,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 25 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66470,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "35th Match",
+              "matchFormat": "T20",
+              "startDate": "1682431200000",
+              "endDate": "1682431200000",
+              "state": "complete",
+              "status": "Gujarat Titans won by 55 runs",
+              "team1": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 971,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 207,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 152,
+                  "wickets": 9,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 26 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66484,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "36th Match",
+              "matchFormat": "T20",
+              "startDate": "1682517600000",
+              "endDate": "1682517600000",
+              "state": "complete",
+              "status": "Kolkata Knight Riders won by 21 runs",
+              "team1": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 63,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 179,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 200,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 27 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66502,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "37th Match",
+              "matchFormat": "T20",
+              "startDate": "1682604000000",
+              "endDate": "1682604000000",
+              "state": "complete",
+              "status": "Rajasthan Royals won by 32 runs",
+              "team1": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "ground": "Sawai Mansingh Stadium",
+                "city": "Jaipur",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 64,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 202,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 170,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 28 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66512,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "38th Match",
+              "matchFormat": "T20",
+              "startDate": "1682690400000",
+              "endDate": "1682690400000",
+              "state": "complete",
+              "status": "Lucknow Super Giants won by 56 runs",
+              "team1": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "venueInfo": {
+                "ground": "Punjab Cricket Association IS Bindra Stadium",
+                "city": "Mohali",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 966,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 201,
+                  "wickets": 10,
+                  "overs": 19.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 257,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 29 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66519,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "39th Match",
+              "matchFormat": "T20",
+              "startDate": "1682762400000",
+              "endDate": "1682762400000",
+              "state": "complete",
+              "status": "Gujarat Titans won by 7 wkts",
+              "team1": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 971,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 179,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 180,
+                  "wickets": 3,
+                  "overs": 17.5
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66526,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "40th Match",
+              "matchFormat": "T20",
+              "startDate": "1682776800000",
+              "endDate": "1682776800000",
+              "state": "complete",
+              "status": "Sunrisers Hyderabad won by 9 runs",
+              "team1": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 255,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 188,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 197,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 30 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66288,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "41st Match",
+              "matchFormat": "T20",
+              "startDate": "1682848800000",
+              "endDate": "1682848800000",
+              "state": "complete",
+              "status": "Punjab Kings won by 4 wkts",
+              "team1": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 65,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 200,
+                  "wickets": 4,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 201,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66299,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "42nd Match",
+              "matchFormat": "T20",
+              "startDate": "1682863200000",
+              "endDate": "1682863200000",
+              "state": "complete",
+              "status": "Mumbai Indians won by 6 wkts",
+              "team1": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 62,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 214,
+                  "wickets": 4,
+                  "overs": 19.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 212,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 01 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66306,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "43rd Match",
+              "matchFormat": "T20",
+              "startDate": "1682949600000",
+              "endDate": "1682949600000",
+              "state": "complete",
+              "status": "Royal Challengers Bangalore won by 18 runs",
+              "team1": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 59,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 108,
+                  "wickets": 10,
+                  "overs": 19.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 126,
+                  "wickets": 9,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 02 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66320,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "44th Match",
+              "matchFormat": "T20",
+              "startDate": "1683036000000",
+              "endDate": "1683036000000",
+              "state": "complete",
+              "status": "Delhi Capitals won by 5 runs",
+              "team1": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 61,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 125,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 130,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 03 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66337,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "45th Match",
+              "matchFormat": "T20",
+              "startDate": "1683108000000",
+              "endDate": "1683108000000",
+              "state": "complete",
+              "status": "No result",
+              "team1": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 966,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 125,
+                  "wickets": 7,
+                  "overs": 19.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66327,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "46th Match",
+              "matchFormat": "T20",
+              "startDate": "1683122400000",
+              "endDate": "1683122400000",
+              "state": "complete",
+              "status": "Mumbai Indians won by 6 wkts",
+              "team1": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "ground": "Punjab Cricket Association IS Bindra Stadium",
+                "city": "Mohali",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 62,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 214,
+                  "wickets": 3,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 216,
+                  "wickets": 4,
+                  "overs": 18.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 04 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66344,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "47th Match",
+              "matchFormat": "T20",
+              "startDate": "1683208800000",
+              "endDate": "1683208800000",
+              "state": "complete",
+              "status": "Kolkata Knight Riders won by 5 runs",
+              "team1": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 63,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 166,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 171,
+                  "wickets": 9,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 05 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66348,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "48th Match",
+              "matchFormat": "T20",
+              "startDate": "1683295200000",
+              "endDate": "1683295200000",
+              "state": "complete",
+              "status": "Gujarat Titans won by 9 wkts",
+              "team1": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "ground": "Sawai Mansingh Stadium",
+                "city": "Jaipur",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 971,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 118,
+                  "wickets": 10,
+                  "overs": 17.5
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 119,
+                  "wickets": 1,
+                  "overs": 13.5
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 06 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66355,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "49th Match",
+              "matchFormat": "T20",
+              "startDate": "1683367200000",
+              "endDate": "1683367200000",
+              "state": "complete",
+              "status": "Chennai Super Kings won by 6 wkts",
+              "team1": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 58,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 140,
+                  "wickets": 4,
+                  "overs": 17.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 139,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66358,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "50th Match",
+              "matchFormat": "T20",
+              "startDate": "1683381600000",
+              "endDate": "1683381600000",
+              "state": "complete",
+              "status": "Delhi Capitals won by 7 wkts",
+              "team1": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 61,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 187,
+                  "wickets": 3,
+                  "overs": 16.4
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 181,
+                  "wickets": 4,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 07 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66365,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "51st Match",
+              "matchFormat": "T20",
+              "startDate": "1683453600000",
+              "endDate": "1683453600000",
+              "state": "complete",
+              "status": "Gujarat Titans won by 56 runs",
+              "team1": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "venueInfo": {
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 971,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 227,
+                  "wickets": 2,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 171,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66376,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "52nd Match",
+              "matchFormat": "T20",
+              "startDate": "1683468000000",
+              "endDate": "1683468000000",
+              "state": "complete",
+              "status": "Sunrisers Hyderabad won by 4 wkts",
+              "team1": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "ground": "Sawai Mansingh Stadium",
+                "city": "Jaipur",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 255,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 214,
+                  "wickets": 2,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 217,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 08 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66379,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "53rd Match",
+              "matchFormat": "T20",
+              "startDate": "1683554400000",
+              "endDate": "1683554400000",
+              "state": "complete",
+              "status": "Kolkata Knight Riders won by 5 wkts",
+              "team1": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 63,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 182,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 179,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 09 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66386,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "54th Match",
+              "matchFormat": "T20",
+              "startDate": "1683640800000",
+              "endDate": "1683640800000",
+              "state": "complete",
+              "status": "Mumbai Indians won by 6 wkts",
+              "team1": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 62,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 200,
+                  "wickets": 4,
+                  "overs": 16.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 199,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 10 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66393,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "55th Match",
+              "matchFormat": "T20",
+              "startDate": "1683727200000",
+              "endDate": "1683727200000",
+              "state": "complete",
+              "status": "Chennai Super Kings won by 27 runs",
+              "team1": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 58,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 167,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 140,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 11 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66397,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "56th Match",
+              "matchFormat": "T20",
+              "startDate": "1683813600000",
+              "endDate": "1683813600000",
+              "state": "complete",
+              "status": "Rajasthan Royals won by 9 wkts",
+              "team1": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 64,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 149,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 151,
+                  "wickets": 1,
+                  "overs": 13.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 12 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66411,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "57th Match",
+              "matchFormat": "T20",
+              "startDate": "1683900000000",
+              "endDate": "1683900000000",
+              "state": "complete",
+              "status": "Mumbai Indians won by 27 runs",
+              "team1": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 62,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 218,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 191,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 13 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66414,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "58th Match",
+              "matchFormat": "T20",
+              "startDate": "1683972000000",
+              "endDate": "1683972000000",
+              "state": "complete",
+              "status": "Lucknow Super Giants won by 7 wkts",
+              "team1": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "venueInfo": {
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 966,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 182,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 185,
+                  "wickets": 3,
+                  "overs": 19.2
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66428,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "59th Match",
+              "matchFormat": "T20",
+              "startDate": "1683986400000",
+              "endDate": "1683986400000",
+              "state": "complete",
+              "status": "Punjab Kings won by 31 runs",
+              "team1": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 65,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 136,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 167,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 14 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66432,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "60th Match",
+              "matchFormat": "T20",
+              "startDate": "1684058400000",
+              "endDate": "1684058400000",
+              "state": "complete",
+              "status": "Royal Challengers Bangalore won by 112 runs",
+              "team1": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "ground": "Sawai Mansingh Stadium",
+                "city": "Jaipur",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 59,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 59,
+                  "wickets": 10,
+                  "overs": 10.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 171,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66442,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "61st Match",
+              "matchFormat": "T20",
+              "startDate": "1684072800000",
+              "endDate": "1684072800000",
+              "state": "complete",
+              "status": "Kolkata Knight Riders won by 6 wkts",
+              "team1": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 63,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 144,
+                  "wickets": 6,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 147,
+                  "wickets": 4,
+                  "overs": 18.3
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 15 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66446,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "62nd Match",
+              "matchFormat": "T20",
+              "startDate": "1684159200000",
+              "endDate": "1684159200000",
+              "state": "complete",
+              "status": "Gujarat Titans won by 34 runs",
+              "team1": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 971,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 188,
+                  "wickets": 9,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 154,
+                  "wickets": 9,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 16 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66453,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "63rd Match",
+              "matchFormat": "T20",
+              "startDate": "1684245600000",
+              "endDate": "1684245600000",
+              "state": "complete",
+              "status": "Lucknow Super Giants won by 5 runs",
+              "team1": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 966,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 177,
+                  "wickets": 3,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 172,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 17 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66460,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "64th Match",
+              "matchFormat": "T20",
+              "startDate": "1684332000000",
+              "endDate": "1684332000000",
+              "state": "complete",
+              "status": "Delhi Capitals won by 15 runs",
+              "team1": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "ground": "Himachal Pradesh Cricket Association Stadium",
+                "city": "Dharamsala",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 61,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 198,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 213,
+                  "wickets": 2,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 18 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66467,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "65th Match",
+              "matchFormat": "T20",
+              "startDate": "1684418400000",
+              "endDate": "1684418400000",
+              "state": "complete",
+              "status": "Royal Challengers Bangalore won by 8 wkts",
+              "team1": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 59,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 186,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 187,
+                  "wickets": 2,
+                  "overs": 19.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 19 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66477,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "66th Match",
+              "matchFormat": "T20",
+              "startDate": "1684504800000",
+              "endDate": "1684504800000",
+              "state": "complete",
+              "status": "Rajasthan Royals won by 4 wkts",
+              "team1": {
+                "teamId": 65,
+                "teamName": "PUNJAB KINGS",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "RAJASTHAN ROYALS",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "ground": "Himachal Pradesh Cricket Association Stadium",
+                "city": "Dharamsala",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 64,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 187,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 189,
+                  "wickets": 6,
+                  "overs": 19.4
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 20 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66481,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "67th Match",
+              "matchFormat": "T20",
+              "startDate": "1684576800000",
+              "endDate": "1684576800000",
+              "state": "complete",
+              "status": "Chennai Super Kings won by 77 runs",
+              "team1": {
+                "teamId": 61,
+                "teamName": "DELHI CAPITALS",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 58,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 146,
+                  "wickets": 9,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 223,
+                  "wickets": 3,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66488,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "68th Match",
+              "matchFormat": "T20",
+              "startDate": "1684591200000",
+              "endDate": "1684591200000",
+              "state": "complete",
+              "status": "Lucknow Super Giants won by 1 run",
+              "team1": {
+                "teamId": 63,
+                "teamName": "KOLKATA KNIGHT RIDERS",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "venueInfo": {
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 966,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 175,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 176,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 21 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66495,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "69th Match",
+              "matchFormat": "T20",
+              "startDate": "1684663200000",
+              "endDate": "1684663200000",
+              "state": "complete",
+              "status": "Mumbai Indians won by 8 wkts",
+              "team1": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "SUNRISERS HYDERABAD",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 62,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 201,
+                  "wickets": 2,
+                  "overs": 18.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 200,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              }
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66505,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "70th Match",
+              "matchFormat": "T20",
+              "startDate": "1684677600000",
+              "endDate": "1684677600000",
+              "state": "complete",
+              "status": "Gujarat Titans won by 6 wkts",
+              "team1": {
+                "teamId": 59,
+                "teamName": "ROYAL CHALLENGERS BENGALURU",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 971,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 197,
+                  "wickets": 5,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 198,
+                  "wickets": 4,
+                  "overs": 19.1
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 23 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 69557,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "Qualifier 1",
+              "matchFormat": "T20",
+              "startDate": "1684850400000",
+              "endDate": "1684850400000",
+              "state": "complete",
+              "status": "Chennai Super Kings won by 15 runs",
+              "team1": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 58,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 157,
+                  "wickets": 10,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 172,
+                  "wickets": 7,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 24 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 69561,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "Eliminator",
+              "matchFormat": "T20",
+              "startDate": "1684936800000",
+              "endDate": "1684936800000",
+              "state": "complete",
+              "status": "Mumbai Indians won by 81 runs",
+              "team1": {
+                "teamId": 966,
+                "teamName": "LUCKNOW SUPER GIANTS",
+                "teamSName": "LSG",
+                "imageId": 389444
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 62,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 101,
+                  "wickets": 10,
+                  "overs": 16.3
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 182,
+                  "wickets": 8,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 26 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 69568,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "Qualifier 2",
+              "matchFormat": "T20",
+              "startDate": "1685109600000",
+              "endDate": "1685109600000",
+              "state": "complete",
+              "status": "Gujarat Titans won by 62 runs",
+              "team1": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "MUMBAI INDIANS",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 971,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 233,
+                  "wickets": 3,
+                  "overs": 20.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 171,
+                  "wickets": 10,
+                  "overs": 18.2
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 28 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 69575,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "Final",
+              "matchFormat": "T20",
+              "startDate": "1685282400000",
+              "endDate": "1685282400000",
+              "state": "complete",
+              "status": "Match postponed to Monday due to rain",
+              "team1": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 29 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 72622,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "Final (Reserve day)",
+              "matchFormat": "T20",
+              "startDate": "1685368800000",
+              "endDate": "1685368800000",
+              "state": "complete",
+              "status": "Chennai Super Kings won by 5 wkts (DLS method)",
+              "team1": {
+                "teamId": 58,
+                "teamName": "CHENNAI SUPER KINGS",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "GUJARAT TITANS",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "currBatTeamId": 58,
+              "isTimeAnnounced": true
+            },
+            "matchScore": {
+              "team1Score": {
+                "inngs1": {
+                  "inningsId": 2,
+                  "runs": 171,
+                  "wickets": 5,
+                  "overs": 15.0
+                }
+              },
+              "team2Score": {
+                "inngs1": {
+                  "inningsId": 1,
+                  "runs": 214,
+                  "wickets": 4,
+                  "overs": 20.0
+                }
+              }
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Indian Premier League 2023 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  }
+}

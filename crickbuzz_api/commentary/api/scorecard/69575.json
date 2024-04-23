@@ -1,0 +1,49 @@
+{
+  "scoreCard": [],
+  "matchHeader": {
+    "matchId": 69575,
+    "matchDescription": "Final",
+    "matchFormat": "T20",
+    "matchType": "league",
+    "complete": false,
+    "domestic": false,
+    "matchStartTimestamp": 1685282400000,
+    "matchCompleteTimestamp": 1685294743464,
+    "dayNight": false,
+    "year": 2023,
+    "state": "Abandon",
+    "status": "Match postponed to Monday due to rain",
+    "tossResults": { "tossWinnerName": "", "decision": "" },
+    "result": {
+      "resultType": "abandon",
+      "winningTeam": "",
+      "winByRuns": false,
+      "winByInnings": false
+    },
+    "revisedTarget": { "reason": "" },
+    "playersOfTheMatch": [],
+    "playersOfTheSeries": [],
+    "isMatchNotCovered": false,
+    "team1": {
+      "id": 58,
+      "name": "Chennai Super Kings",
+      "playerDetails": [],
+      "shortName": "CSK"
+    },
+    "team2": {
+      "id": 971,
+      "name": "Gujarat Titans",
+      "playerDetails": [],
+      "shortName": "GT"
+    },
+    "seriesDesc": "Indian Premier League 2023",
+    "seriesId": 5945,
+    "seriesName": "Indian Premier League 2023",
+    "alertType": "auto",
+    "livestreamEnabled": false
+  },
+  "isMatchComplete": true,
+  "status": "",
+  "videos": [],
+  "responseLastUpdated": 1713685568
+}
