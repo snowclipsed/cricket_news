@@ -12,7 +12,7 @@ If the type is 'article' then llama3 will generate an article from the combined 
 If the type is 'points' then llama3 will generate a summary of the combined summary points.
 """
 
-def generate(combined_summary:str, model:Model, base):
+def generate(combined_summary:str, model:Model, save_dir:str, save:bool = True):
     
     start = time.time()    
     article = model.response(model.get_prompt_template(task='generate', type = 'metadata') + model.get_prompt_template(task='generate', type = 'article') , combined_summary)
@@ -20,11 +20,17 @@ def generate(combined_summary:str, model:Model, base):
     logger.info(f'Total time taken to generate: {end-start}')
     
     # write combined summary to file
-    if not os.path.exists(base+'final_summary'):
-        os.makedirs(base+'final_summary')
+    if save:
+        if not os.path.exists(save_dir):
+            os.makedirs(save_dir)
 
-    with open(base+'final_summary/final_summary.txt', 'w') as file:
-        file.write(article)
+        with open(save_dir+'article.txt', 'w') as file:
+            try:
+                file.write(article)
+            except UnicodeEncodeError:
+                logger.error('UnicodeEncodeError: Could not write to file. Saving as bytes.')
+                file.write(article.encode('utf-8'))
+        logger.info(f'Final summary saved at {save_dir}final_summary.txt.')
         
     logger.info('Final summary created successfully at base/final_summary/final_summary.txt.')
     return article

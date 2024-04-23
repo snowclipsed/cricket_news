@@ -1,10 +1,22 @@
 paths:
   base: '/home/snow/NEU/cricket_news/'
-  data: 'data/'
+  data: 'dataset/'
   commentary: '66169_commentary.csv'
   scorecard: '66169_scorecard.csv'
   highlights: '66169_highlights.csv'
+  chunks: 'chunks/'
+  extract: 'extracted/'
+  revise: 'revised/'
+  final_dir: 'article/'
+
 models:
   extract: 'dolphin-phi'
   revise: 'dolphin-phi'
   generate: 'llama3'
+
+save_options:
+  save_chunks: True
+  save_extract: True
+  save_revise: True
+  save_generate: True
+  save_refine: True

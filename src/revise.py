@@ -4,7 +4,7 @@ from loguru import logger
 import time
 import os
 
-def revise(chunk:Chunk, model:Model, base_path:str, write:bool = True):
+def revise(chunk:Chunk, model:Model, dir_path:str, save:bool = True):
     """
     Takes all the extracts of the chunk and sends it to the model to generate a final list of summaries for that chunk.
 
@@ -18,10 +18,12 @@ def revise(chunk:Chunk, model:Model, base_path:str, write:bool = True):
     end = time.time()
     logger.info(f'Total time taken to revise: {chunk.chunk_type} | {chunk_id} | {end-start}')
     
-    if not os.path.exists(base_path+'revised/'+chunk_type+'/'):
-        os.makedirs(base_path+'revised/'+chunk_type+'/')
+    if save:
+        if not os.path.exists(dir_path+chunk_type+'/'):
+            os.makedirs(dir_path+chunk_type+'/')
     
-    if write:
-        with open(base_path+'revised/'+chunk_type+'/'+chunk_id+'.txt', 'w') as file:
+        with open(dir_path+chunk_type+'/'+chunk_id+'.txt', 'w') as file:
             file.write(response)
+            logger.info(f'Revised summary saved at {dir_path+chunk_type}/{chunk_id}.txt')
+            
     return response

@@ -55,11 +55,13 @@ class Chunk():
     
 
 class Match():
-    def __init__(self, data_path:str = None, highlights:bool = True):
+    def __init__(self, data_path:str = None, chunk_dir:str = None, save_chunk:bool = True, highlights:bool = True):
         self.data_path = data_path
         self.prematch = List[Chunk]
         self.innings = List[Chunk]
         self.postmatch = List[Chunk]
+        self.chunk_dir = chunk_dir
+        self.save_chunk = save_chunk
         self.highlights = highlights
 
     def load_commentaries(self):
@@ -84,17 +86,17 @@ class Match():
         
         # create chunks
         prematch_text = combine_text_column(prematch)
-        self.prematch = create_chunks(prematch_text, chunk_type='prematch')
+        self.prematch = create_chunks(prematch_text, chunk_type='prematch', save_dir=self.chunk_dir, save=self.save_chunk)
         logger.info(f"Number of prematch chunks: {len(self.prematch)}")
 
 
         innings_text = combine_text_column(innings)
         # print(innings_text)
-        self.innings = create_chunks(innings_text, chunk_type='innings')
+        self.innings = create_chunks(innings_text, chunk_type='innings', save_dir=self.chunk_dir, save=self.save_chunk)
         logger.info(f"Number of innings chunks: {len(self.innings)}")
 
         postmatch_text = combine_text_column(postmatch)
-        self.postmatch = create_chunks(postmatch_text, chunk_type='postmatch')
+        self.postmatch = create_chunks(postmatch_text, chunk_type='postmatch', save_dir=self.chunk_dir, save=self.save_chunk)
         logger.info(f"Number of postmatch chunks: {len(self.postmatch)}")
 
 def combine_summaries(chunks: List[Chunk]):
@@ -112,7 +114,7 @@ def combine_summaries(chunks: List[Chunk]):
 
 
 
-def create_chunks(data: str, chunk_type:str, chunk_size: int = 1500, overlap: int = 20, tokenizer_name: str = "microsoft/phi-2") -> List[Chunk]:
+def create_chunks(data: str, chunk_type:str, save_dir:str, save:bool=True, chunk_size: int = 1500, overlap: int = 20, tokenizer_name: str = "microsoft/phi-2") -> List[Chunk]:
     """
     This function takes in data and creates chunks of the specified number of tokens with an optional overlap.
 
@@ -138,6 +140,15 @@ def create_chunks(data: str, chunk_type:str, chunk_size: int = 1500, overlap: in
         chunk_tokens = tokens[start:end]
         chunk_text = tokenizer.convert_tokens_to_string(chunk_tokens)
         chunks.append(Chunk(chunk_id=chunk_id, chunk_type=chunk_type, chunk_text=chunk_text))
+        if save:
+            if not os.path.exists(save_dir+'/'+chunk_type):
+                os.makedirs(save_dir+'/'+chunk_type)
+            with open(save_dir+'/'+chunk_type+'/'+str(chunk_id)+'.txt', 'w') as file:
+                try:
+                    file.write(chunk_text)
+                except UnicodeEncodeError:
+                    logger.error('UnicodeEncodeError: Could not write to file. Saving as bytes.')
+                    file.write(chunk_text.encode('utf-8'))
         start = end - overlap
         end = start + chunk_size
         chunk_id += 1

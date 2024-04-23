@@ -17,6 +17,7 @@ def get_args(args):
             config = yaml.safe_load(file)
         except yaml.YAMLError as exc:
             print(exc)
+            logger.error(exc)
     return config
 
 if __name__ == '__main__':
@@ -30,46 +31,61 @@ if __name__ == '__main__':
     base = paths['base']
     data = paths['data']
     commentary = paths['commentary']
+    chunks = paths['chunks']
+    extracted = base+paths['extract']
+    revised = base+paths['revise']
+    final_dir = base+paths['final_dir']
+
     models = config['models']
     extractmodel = models['extract']
     revisemodel = models['revise']
     generatemodel = models['generate']
 
-    
-    match = Match(base + data + commentary)
+    save_options = config['save_options']
+    save_extract = save_options['save_extract']
+    save_revise = save_options['save_revise']
+    save_generate = save_options['save_generate']
+    save_refine = save_options['save_refine']
+
+    match = Match(data_path=base + data + commentary, save_chunk=True, chunk_dir=base + chunks)
     match.load_commentaries()
     metadata_template(66169, base)
 
     start = time.time()
     model = Model(extractmodel)
     end = time.time()
+
     logger.info(f'Total time taken to load model {extractmodel} :{end-start}')
+
     start = time.time()
+
     for chunk in match.prematch:
-        extract(chunk, model, base)
-        revise(chunk, model, base)
+        extract(chunk, model, extracted, save_extract)
+        revise(chunk, model, revised, save_revise)
+
     for chunk in match.innings:
-        extract(chunk, model, base)
-        revise(chunk, model, base)
+        extract(chunk, model, extracted, save_extract)
+        revise(chunk, model, revised, save_revise)
+
     for chunk in match.postmatch:
-        extract(chunk, model, base)
-        revise(chunk, model, base)
+        extract(chunk, model, extracted, save_extract)
+        revise(chunk, model, revised, save_revise)
+
     end = time.time()
     logger.info(f'Total time taken to extract and revise: {end-start}')
 
     combined_prematch = combine_summaries(match.prematch)
     combined_innings = combine_summaries(match.innings)
     combined_postmatch = combine_summaries(match.postmatch)
+    combined = combined_prematch + combined_innings + combined_postmatch
+    count_tokens(combined)
+
     start = time.time()
     model = Model(generatemodel)
     end = time.time()
     
-    combined = combined_prematch + combined_innings + combined_postmatch
-    count_tokens(combined)
-
-
     logger.info(f'Total time taken to load model {generatemodel} :{end-start}')
-    article = generate(combined, model, base)
-    refine(article, model, base)
+    article = generate(combined, model, final_dir, save_generate)
+    refine(article, model, final_dir, save_refine)
     total_end = time.time()
     logger.info(f'Total time taken for the entire process: {total_end-total_start}')
