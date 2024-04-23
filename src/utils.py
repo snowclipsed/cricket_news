@@ -32,7 +32,9 @@ def metadata_template(match_id:int, base:str, data:str):
     Returns:
         pd.DataFrame: The match information.
     """
+    print(base + data + str(match_id)+'_match_info.csv')
     df = pd.read_csv(base + data + str(match_id)+'_match_info.csv')
+    match_id = int(match_id)
     # Filter the DataFrame to get the match information
     match_info = df[df['match_id'] == match_id]
     year = match_info['year'].values[0]

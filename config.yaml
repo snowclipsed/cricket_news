@@ -1,9 +1,10 @@
 paths:
   base: '/home/snow/NEU/cricket_news/'
   data: 'dataset/'
-  commentary: '66173_commentary.csv'
-  scorecard: '66173_scorecard.csv'
-  highlights: '66173_highlights.csv'
+  match_id: '66173'
+  commentary: '_commentary.csv'
+  scorecard: '_scorecard.csv'
+  highlights: '_highlights.csv'
   chunks: 'chunks/'
   extract: 'extracted/'
   revise: 'revised/'

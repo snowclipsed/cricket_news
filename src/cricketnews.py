@@ -30,6 +30,7 @@ if __name__ == '__main__':
     paths = config['paths']
     base = paths['base']
     data = paths['data']
+    match_id = paths['match_id']
     commentary = paths['commentary']
     chunks = paths['chunks']
     extracted = base+paths['extract']
@@ -47,9 +48,9 @@ if __name__ == '__main__':
     save_generate = save_options['save_generate']
     save_refine = save_options['save_refine']
 
-    match = Match(data_path=base + data + commentary, save_chunk=True, chunk_dir=base + chunks)
+    match = Match(data_path=base + data + match_id+commentary, save_chunk=True, chunk_dir=base + chunks)
     match.load_commentaries()
-    metadata_template(66173, base, data)
+    metadata_template(match_id, base, data)
 
     start = time.time()
     model = Model(extractmodel)
