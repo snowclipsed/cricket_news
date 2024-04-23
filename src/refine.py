@@ -30,6 +30,4 @@ def refine(combined_summary:str, model:Model, save_dir:str, save:bool = True):
             except UnicodeEncodeError:
                 logger.error('UnicodeEncodeError: Could not write to file. Saving as bytes.')
                 file.write(article.encode('utf-8'))
-        logger.info(f'Final summary saved at {save_dir}revised.txt.')
-        
-    logger.info('Refine created successfully at base/final_summary/refined_summary.txt.')
+        logger.info(f'Refined article saved at {save_dir}revised.txt.')
