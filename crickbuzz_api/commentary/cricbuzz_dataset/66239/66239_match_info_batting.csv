@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66239,1,Royal Challengers Bangalore,RCB,1413,Kohli,61,44,0,4,4,138.64,c Stoinis b Amit Mishra,1454,CAUGHT,False
+66239,1,Royal Challengers Bangalore,RCB,7825,du Plessis,79,46,0,5,5,171.74,not out,0,,True
+66239,1,Royal Challengers Bangalore,RCB,7662,Maxwell,59,29,0,3,6,203.45,b Mark Wood,8383,BOWLED,True
+66239,1,Royal Challengers Bangalore,RCB,145,Karthik,1,1,0,0,0,100.0,not out,0,,False
+66239,1,Royal Challengers Bangalore,RCB,10954,Lomror,0,0,0,0,0,0.0,,0,,False
+66239,1,Royal Challengers Bangalore,RCB,14606,Shahbaz Ahmed,0,0,0,0,0,0.0,,0,,False
+66239,1,Royal Challengers Bangalore,RCB,13135,Anuj Rawat,0,0,0,0,0,0.0,,0,,False
+66239,1,Royal Challengers Bangalore,RCB,6592,Willey,0,0,0,0,0,0.0,,0,,True
+66239,1,Royal Challengers Bangalore,RCB,1692,Parnell,0,0,0,0,0,0.0,,0,,True
+66239,1,Royal Challengers Bangalore,RCB,8175,Harshal Patel,0,0,0,0,0,0.0,,0,,False
+66239,1,Royal Challengers Bangalore,RCB,10808,Siraj,0,0,0,0,0,0.0,,0,,False
+66239,1,Royal Challengers Bangalore,RCB,1844,Karn Sharma,0,0,0,0,0,0.0,,0,,False
+66239,2,Lucknow Super Giants,LSG,8440,Kyle Mayers,0,3,3,0,0,0.0,b Siraj,10808,BOWLED,True
+66239,2,Lucknow Super Giants,LSG,8733,KL Rahul,18,20,5,1,0,90.0,c Kohli b Siraj,10808,CAUGHT,False
+66239,2,Lucknow Super Giants,LSG,9427,Deepak Hooda,9,10,5,1,0,90.0,c Karthik b Parnell,1692,CAUGHT,False
+66239,2,Lucknow Super Giants,LSG,11311,Krunal Pandya,0,2,2,0,0,0.0,c Karthik b Parnell,1692,CAUGHT,False
+66239,2,Lucknow Super Giants,LSG,8989,Marcus Stoinis,65,30,10,6,5,216.67,c Shahbaz Ahmed b Karn Sharma,1844,CAUGHT,True
+66239,2,Lucknow Super Giants,LSG,9406,Nicholas Pooran,62,19,4,4,7,326.32,c Shahbaz Ahmed b Siraj,10808,CAUGHT,True
+66239,2,Lucknow Super Giants,LSG,13907,Ayush Badoni,30,24,7,4,0,125.0,hit wkt b Parnell,1692,HITWKT,False
+66239,2,Lucknow Super Giants,LSG,6327,Jaydev Unadkat,9,7,1,1,0,128.57,c du Plessis b Harshal Patel,8175,CAUGHT,False
+66239,2,Lucknow Super Giants,LSG,8383,Mark Wood,1,2,1,0,0,50.0,b Harshal Patel,8175,BOWLED,True
+66239,2,Lucknow Super Giants,LSG,14659,Ravi Bishnoi,3,2,0,0,0,150.0,not out,0,,False
+66239,2,Lucknow Super Giants,LSG,9781,Avesh Khan,0,1,1,0,0,0.0,not out,0,,False
+66239,2,Lucknow Super Giants,LSG,1454,Amit Mishra,0,0,0,0,0,0.0,,0,,False

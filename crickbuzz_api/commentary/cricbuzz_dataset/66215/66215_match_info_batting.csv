@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66215,1,Sunrisers Hyderabad,SRH,10947,Anmolpreet Singh,31,26,0,3,1,119.23,lbw b Krunal Pandya,11311,LBW,False
+66215,1,Sunrisers Hyderabad,SRH,2195,Mayank Agarwal,8,7,0,1,0,114.29,c Stoinis b Krunal Pandya,11311,CAUGHT,False
+66215,1,Sunrisers Hyderabad,SRH,9012,Tripathi,35,41,0,4,0,85.37,c Amit Mishra b Yash Thakur,12096,CAUGHT,False
+66215,1,Sunrisers Hyderabad,SRH,9582,Markram,0,1,0,0,0,0.0,b Krunal Pandya,11311,BOWLED,True
+66215,1,Sunrisers Hyderabad,SRH,12201,Harry Brook,3,4,0,0,0,75.0,st Pooran b Ravi Bishnoi,14659,STUMPED,True
+66215,1,Sunrisers Hyderabad,SRH,10945,Washington Sundar,16,28,0,0,0,57.14,c Deepak Hooda b Amit Mishra,1454,CAUGHT,False
+66215,1,Sunrisers Hyderabad,SRH,14628,Abdul Samad,21,10,0,1,2,210.0,not out,0,,False
+66215,1,Sunrisers Hyderabad,SRH,1742,Adil Rashid,4,3,0,1,0,133.33,c Deepak Hooda b Amit Mishra,1454,CAUGHT,True
+66215,1,Sunrisers Hyderabad,SRH,19027,Umran Malik,0,0,0,0,0,0.0,run out (Deepak Hooda/Jaydev Unadkat),0,RUNOUT,False
+66215,1,Sunrisers Hyderabad,SRH,1726,Bhuvneshwar,0,0,0,0,0,0.0,not out,0,,False
+66215,1,Sunrisers Hyderabad,SRH,10225,T Natarajan,0,0,0,0,0,0.0,,0,,False
+66215,1,Sunrisers Hyderabad,SRH,14282,Fazalhaq Farooqi,0,0,0,0,0,0.0,,0,,True
+66215,2,Lucknow Super Giants,LSG,8440,Kyle Mayers,13,14,8,2,0,92.86,c Mayank Agarwal b Fazalhaq Farooqi,14282,CAUGHT,True
+66215,2,Lucknow Super Giants,LSG,8733,KL Rahul,35,31,11,4,0,112.9,lbw b Adil Rashid,1742,LBW,False
+66215,2,Lucknow Super Giants,LSG,9427,Deepak Hooda,7,8,6,0,1,87.5,c and b Bhuvneshwar,1726,CAUGHTBOWLED,False
+66215,2,Lucknow Super Giants,LSG,11311,Krunal Pandya,34,23,9,4,1,147.83,c Anmolpreet Singh b Umran Malik,19027,CAUGHT,False
+66215,2,Lucknow Super Giants,LSG,8989,Marcus Stoinis,10,13,9,2,0,76.92,not out,0,,True
+66215,2,Lucknow Super Giants,LSG,13646,Romario Shepherd,0,1,1,0,0,0.0,lbw b Adil Rashid,1742,LBW,True
+66215,2,Lucknow Super Giants,LSG,9406,Nicholas Pooran,11,6,3,1,1,183.33,not out,0,,True
+66215,2,Lucknow Super Giants,LSG,1454,Amit Mishra,0,0,0,0,0,0.0,,0,,False
+66215,2,Lucknow Super Giants,LSG,12096,Yash Thakur,0,0,0,0,0,0.0,,0,,False
+66215,2,Lucknow Super Giants,LSG,6327,Jaydev Unadkat,0,0,0,0,0,0.0,,0,,False
+66215,2,Lucknow Super Giants,LSG,14659,Ravi Bishnoi,0,0,0,0,0,0.0,,0,,False
+66215,2,Lucknow Super Giants,LSG,13907,Ayush Badoni,0,0,0,0,0,0.0,,0,,False

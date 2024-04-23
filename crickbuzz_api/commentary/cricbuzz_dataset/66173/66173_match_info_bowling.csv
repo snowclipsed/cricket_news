@@ -1,0 +1,11 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66173,1,Kolkata Knight Riders,KKR,1858,Umesh,4.0,0,27,0,1,6.8,0,0,False
+66173,1,Kolkata Knight Riders,KKR,1057,Southee,4.0,0,54,0,2,13.5,0,0,True
+66173,1,Kolkata Knight Riders,KKR,2276,Narine,4.0,0,40,0,1,10.0,0,1,True
+66173,1,Kolkata Knight Riders,KKR,12926,Chakaravarthy,4.0,0,26,0,1,6.5,0,1,False
+66173,1,Kolkata Knight Riders,KKR,8683,Thakur,4.0,0,43,0,0,10.8,1,0,False
+66173,2,Punjab Kings,PBKS,1858,Umesh,4.0,0,27,0,1,6.8,0,0,False
+66173,2,Punjab Kings,PBKS,1057,Southee,4.0,0,54,0,2,13.5,0,0,True
+66173,2,Punjab Kings,PBKS,2276,Narine,4.0,0,40,0,1,10.0,0,1,True
+66173,2,Punjab Kings,PBKS,12926,Chakaravarthy,4.0,0,26,0,1,6.5,0,1,False
+66173,2,Punjab Kings,PBKS,8683,Thakur,4.0,0,43,0,0,10.8,1,0,False

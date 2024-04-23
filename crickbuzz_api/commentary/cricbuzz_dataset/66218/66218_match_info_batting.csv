@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66218,1,Rajasthan Royals,RR,13940,Yashasvi Jaiswal,60,31,0,11,1,193.55,c and b Mukesh Kumar,10754,CAUGHTBOWLED,False
+66218,1,Rajasthan Royals,RR,2258,Jos Buttler,79,51,0,11,1,154.9,c and b Mukesh Kumar,10754,CAUGHTBOWLED,True
+66218,1,Rajasthan Royals,RR,8271,Samson,0,4,0,0,0,0.0,c Nortje b Kuldeep Yadav,8292,CAUGHT,False
+66218,1,Rajasthan Royals,RR,12305,Riyan Parag,7,11,0,0,0,63.64,b Rovman Powell,11445,BOWLED,False
+66218,1,Rajasthan Royals,RR,9789,Hetmyer,39,21,0,1,4,185.71,not out,0,,True
+66218,1,Rajasthan Royals,RR,14691,Dhruv Jurel,8,3,0,0,1,266.67,not out,0,,False
+66218,1,Rajasthan Royals,RR,1593,Ashwin,0,0,0,0,0,0.0,,0,,False
+66218,1,Rajasthan Royals,RR,8313,Holder,0,0,0,0,0,0.0,,0,,True
+66218,1,Rajasthan Royals,RR,8117,Boult,0,0,0,0,0,0.0,,0,,True
+66218,1,Rajasthan Royals,RR,8356,Sandeep Sharma,0,0,0,0,0,0.0,,0,,False
+66218,1,Rajasthan Royals,RR,7910,Chahal,0,0,0,0,0,0.0,,0,,False
+66218,1,Rajasthan Royals,RR,8796,M Ashwin,0,0,0,0,0,0.0,,0,,False
+66218,2,Delhi Capitals,DC,12094,Prithvi Shaw,0,3,3,0,0,0.0,c Samson b Boult,8117,CAUGHT,False
+66218,2,Delhi Capitals,DC,1739,David Warner,65,55,17,7,0,118.18,lbw b Chahal,7910,LBW,True
+66218,2,Delhi Capitals,DC,1836,Manish Pandey,0,1,1,0,0,0.0,lbw b Boult,8117,LBW,False
+66218,2,Delhi Capitals,DC,2244,Rilee Rossouw,14,12,5,2,0,116.67,c Yashasvi Jaiswal b Ashwin,1593,CAUGHT,True
+66218,2,Delhi Capitals,DC,13252,Lalit Yadav,38,24,4,5,0,158.33,b Boult,8117,BOWLED,False
+66218,2,Delhi Capitals,DC,8808,Axar Patel,2,6,4,0,0,33.33,st Samson b Chahal,7910,STUMPED,False
+66218,2,Delhi Capitals,DC,11445,Rovman Powell,2,2,1,0,0,100.0,c Hetmyer b Ashwin,1593,CAUGHT,True
+66218,2,Delhi Capitals,DC,24326,Abishek Porel,7,9,5,1,0,77.78,c Hetmyer b Chahal,7910,CAUGHT,False
+66218,2,Delhi Capitals,DC,8292,Kuldeep Yadav,3,7,4,0,0,42.86,not out,0,,False
+66218,2,Delhi Capitals,DC,11427,Anrich Nortje,0,1,1,0,0,0.0,b Sandeep Sharma,8356,BOWLED,True
+66218,2,Delhi Capitals,DC,10754,Mukesh Kumar,1,1,0,0,0,100.0,not out,0,,False
+66218,2,Delhi Capitals,DC,10952,Khaleel Ahmed,0,0,0,0,0,0.0,,0,,False

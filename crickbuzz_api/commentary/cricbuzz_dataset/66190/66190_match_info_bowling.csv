@@ -1,0 +1,15 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66190,1,Royal Challengers Bangalore,RCB,10808,Siraj,4.0,0,21,0,1,5.2,0,6,False
+66190,1,Royal Challengers Bangalore,RCB,8349,R Topley,2.0,0,14,0,1,7.0,0,0,True
+66190,1,Royal Challengers Bangalore,RCB,14726,Akash Deep,3.0,0,29,0,1,9.7,0,0,False
+66190,1,Royal Challengers Bangalore,RCB,8175,Harshal Patel,4.0,0,43,0,1,10.8,1,2,False
+66190,1,Royal Challengers Bangalore,RCB,1844,Karn Sharma,4.0,0,32,0,2,8.0,0,1,False
+66190,1,Royal Challengers Bangalore,RCB,9551,M Bracewell,2.0,0,16,0,1,8.0,0,0,True
+66190,1,Royal Challengers Bangalore,RCB,7662,Maxwell,1.0,0,16,0,0,16.0,0,1,True
+66190,2,Mumbai Indians,MI,10808,Siraj,4.0,0,21,0,1,5.2,0,6,False
+66190,2,Mumbai Indians,MI,8349,R Topley,2.0,0,14,0,1,7.0,0,0,True
+66190,2,Mumbai Indians,MI,14726,Akash Deep,3.0,0,29,0,1,9.7,0,0,False
+66190,2,Mumbai Indians,MI,8175,Harshal Patel,4.0,0,43,0,1,10.8,1,2,False
+66190,2,Mumbai Indians,MI,1844,Karn Sharma,4.0,0,32,0,2,8.0,0,1,False
+66190,2,Mumbai Indians,MI,9551,M Bracewell,2.0,0,16,0,1,8.0,0,0,True
+66190,2,Mumbai Indians,MI,7662,Maxwell,1.0,0,16,0,0,16.0,0,1,True

@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66173,1,Punjab Kings,PBKS,14254,Prabhsimran,23,12,0,2,2,191.67,c Gurbaz b Southee,1057,CAUGHT,False
+66173,1,Punjab Kings,PBKS,1446,Dhawan,40,29,0,6,0,137.93,b Chakaravarthy,12926,BOWLED,False
+66173,1,Punjab Kings,PBKS,7869,B Rajapaksa,50,32,0,5,2,156.25,c Rinku Singh b Umesh,1858,CAUGHT,True
+66173,1,Punjab Kings,PBKS,10214,Jitesh Sharma,21,11,0,1,2,190.91,c Umesh b Southee,1057,CAUGHT,False
+66173,1,Punjab Kings,PBKS,9354,Raza,16,13,0,1,1,123.08,c Nitish Rana b Narine,2276,CAUGHT,True
+66173,1,Punjab Kings,PBKS,10420,Sam Curran,26,17,0,0,2,152.94,not out,0,,True
+66173,1,Punjab Kings,PBKS,10226,Shahrukh Khan,11,7,0,2,0,157.14,not out,0,,False
+66173,1,Punjab Kings,PBKS,15480,Nathan Ellis,0,0,0,0,0,0.0,,0,,True
+66173,1,Punjab Kings,PBKS,14452,Harpreet Brar,0,0,0,0,0,0.0,,0,,False
+66173,1,Punjab Kings,PBKS,12087,Rahul Chahar,0,0,0,0,0,0.0,,0,,False
+66173,1,Punjab Kings,PBKS,13217,Arshdeep Singh,0,0,0,0,0,0.0,,0,,False
+66173,1,Punjab Kings,PBKS,8616,Rishi Dhawan,0,0,0,0,0,0.0,,0,,False
+66173,2,Kolkata Knight Riders,KKR,6319,Mandeep Singh,2,4,2,0,0,50.0,c Sam Curran b Arshdeep Singh,13217,CAUGHT,False
+66173,2,Kolkata Knight Riders,KKR,13213,Rahmanullah Gurbaz,22,16,8,3,1,137.5,b Nathan Ellis,15480,BOWLED,True
+66173,2,Kolkata Knight Riders,KKR,12344,Anukul Roy,4,5,4,1,0,80.0,c Raza b Arshdeep Singh,13217,CAUGHT,False
+66173,2,Kolkata Knight Riders,KKR,10917,Venkatesh Iyer,34,28,9,3,1,121.43,c Rahul Chahar b Arshdeep Singh,13217,CAUGHT,False
+66173,2,Kolkata Knight Riders,KKR,9204,Nitish Rana,24,17,8,3,1,141.18,c Rahul Chahar b Raza,9354,CAUGHT,False
+66173,2,Kolkata Knight Riders,KKR,10896,Rinku Singh,4,4,1,0,0,100.0,c Raza b Rahul Chahar,12087,CAUGHT,False
+66173,2,Kolkata Knight Riders,KKR,7736,Andre Russell,35,19,5,3,2,184.21,c Raza b Sam Curran,10420,CAUGHT,True
+66173,2,Kolkata Knight Riders,KKR,8683,Shardul Thakur,8,3,0,0,1,266.67,not out,0,,False
+66173,2,Kolkata Knight Riders,KKR,2276,Sunil Narine,7,2,0,0,1,350.0,not out,0,,True
+66173,2,Kolkata Knight Riders,KKR,1057,Tim Southee,0,0,0,0,0,0.0,,0,,True
+66173,2,Kolkata Knight Riders,KKR,1858,Umesh Yadav,0,0,0,0,0,0.0,,0,,False
+66173,2,Kolkata Knight Riders,KKR,12926,Varun Chakaravarthy,0,0,0,0,0,0.0,,0,,False

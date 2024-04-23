@@ -1,0 +1,13 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66169,1,Gujarat Titans,GT,7909,Shami,4,0,29,0,2,7.2,1,0,False
+66169,1,Gujarat Titans,GT,9647,Hardik Pandya,3,0,28,0,0,9.3,0,0,False
+66169,1,Gujarat Titans,GT,11128,Joshua Little,4,0,41,0,1,10.2,0,0,True
+66169,1,Gujarat Titans,GT,10738,Rashid Khan,4,0,26,0,2,6.5,0,0,True
+66169,1,Gujarat Titans,GT,11220,Alzarri Joseph,4,0,33,0,2,8.2,0,0,True
+66169,1,Gujarat Titans,GT,14172,Yash Dayal,1,0,14,0,0,14.0,0,0,False
+66169,2,Chennai Super Kings,CSK,7909,Shami,4,0,29,0,2,7.2,1,0,False
+66169,2,Chennai Super Kings,CSK,9647,Hardik Pandya,3,0,28,0,0,9.3,0,0,False
+66169,2,Chennai Super Kings,CSK,11128,Joshua Little,4,0,41,0,1,10.2,0,0,True
+66169,2,Chennai Super Kings,CSK,10738,Rashid Khan,4,0,26,0,2,6.5,0,0,True
+66169,2,Chennai Super Kings,CSK,11220,Alzarri Joseph,4,0,33,0,2,8.2,0,0,True
+66169,2,Chennai Super Kings,CSK,14172,Yash Dayal,1,0,14,0,0,14.0,0,0,False

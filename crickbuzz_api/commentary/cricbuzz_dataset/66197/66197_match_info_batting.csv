@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66197,1,Chennai Super Kings,CSK,11813,Ruturaj Gaikwad,57,31,0,3,4,183.87,c Mark Wood b Ravi Bishnoi,14659,CAUGHT,False
+66197,1,Chennai Super Kings,CSK,9838,Conway,47,29,0,5,2,162.07,c Krunal Pandya b Mark Wood,8383,CAUGHT,True
+66197,1,Chennai Super Kings,CSK,11195,Shivam Dube,27,16,0,1,3,168.75,c Mark Wood b Ravi Bishnoi,14659,CAUGHT,False
+66197,1,Chennai Super Kings,CSK,6692,Moeen,19,13,0,3,0,146.15,st Pooran b Ravi Bishnoi,14659,STUMPED,True
+66197,1,Chennai Super Kings,CSK,6557,Stokes,8,8,0,1,0,100.0,c Yash Thakur b Avesh Khan,9781,CAUGHT,True
+66197,1,Chennai Super Kings,CSK,6311,Rayudu,27,14,0,2,2,192.86,not out,0,,False
+66197,1,Chennai Super Kings,CSK,587,Ravindra Jadeja,3,6,0,0,0,50.0,c Ravi Bishnoi b Mark Wood,8383,CAUGHT,False
+66197,1,Chennai Super Kings,CSK,265,Dhoni,12,3,0,0,2,400.0,c Ravi Bishnoi b Mark Wood,8383,CAUGHT,False
+66197,1,Chennai Super Kings,CSK,10100,Santner,1,1,0,0,0,100.0,not out,0,,True
+66197,1,Chennai Super Kings,CSK,7836,D Chahar,0,0,0,0,0,0.0,,0,,False
+66197,1,Chennai Super Kings,CSK,11307,Tushar Deshpande,0,0,0,0,0,0.0,,0,,False
+66197,1,Chennai Super Kings,CSK,14599,RS Hangargekar,0,0,0,0,0,0.0,,0,,False
+66197,2,Lucknow Super Giants,LSG,8733,KL Rahul,20,18,7,2,0,111.11,c Ruturaj Gaikwad b Moeen,6692,CAUGHT,False
+66197,2,Lucknow Super Giants,LSG,8440,Kyle Mayers,53,22,8,8,2,240.91,c Conway b Moeen,6692,CAUGHT,True
+66197,2,Lucknow Super Giants,LSG,9427,Deepak Hooda,2,6,4,0,0,33.33,c Stokes b Santner,10100,CAUGHT,False
+66197,2,Lucknow Super Giants,LSG,11311,Krunal Pandya,9,9,5,0,1,100.0,c Ravindra Jadeja b Moeen,6692,CAUGHT,False
+66197,2,Lucknow Super Giants,LSG,8989,Marcus Stoinis,21,18,4,0,1,116.67,b Moeen,6692,BOWLED,True
+66197,2,Lucknow Super Giants,LSG,9406,Nicholas Pooran,32,18,7,2,3,177.78,c Stokes b Tushar Deshpande,11307,CAUGHT,True
+66197,2,Lucknow Super Giants,LSG,13907,Ayush Badoni,23,18,2,0,0,127.78,c Dhoni b Tushar Deshpande,11307,CAUGHT,False
+66197,2,Lucknow Super Giants,LSG,8925,Krishnappa Gowtham,17,11,3,0,1,154.55,not out,0,,False
+66197,2,Lucknow Super Giants,LSG,8383,Mark Wood,10,3,1,1,1,333.33,not out,0,,True
+66197,2,Lucknow Super Giants,LSG,14659,Ravi Bishnoi,0,0,0,0,0,0.0,,0,,False
+66197,2,Lucknow Super Giants,LSG,12096,Yash Thakur,0,0,0,0,0,0.0,,0,,False
+66197,2,Lucknow Super Giants,LSG,9781,Avesh Khan,0,0,0,0,0,0.0,,0,,False

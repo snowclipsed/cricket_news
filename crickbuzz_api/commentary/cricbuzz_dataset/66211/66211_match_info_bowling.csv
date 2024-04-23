@@ -1,0 +1,15 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66211,1,Royal Challengers Bangalore,RCB,10808,Siraj,4.0,0,44,0,1,11.0,1,7,False
+66211,1,Royal Challengers Bangalore,RCB,6592,Willey,4.0,1,16,0,2,4.0,0,1,True
+66211,1,Royal Challengers Bangalore,RCB,14726,Akash Deep,2.0,0,30,0,0,15.0,2,1,False
+66211,1,Royal Challengers Bangalore,RCB,9551,M Bracewell,3.0,0,34,0,1,11.3,0,0,True
+66211,1,Royal Challengers Bangalore,RCB,14606,Shahbaz Ahmed,1.0,0,6,0,0,6.0,0,0,False
+66211,1,Royal Challengers Bangalore,RCB,1844,Karn Sharma,3.0,0,26,0,2,8.7,0,0,False
+66211,1,Royal Challengers Bangalore,RCB,8175,Harshal Patel,3.0,0,38,0,1,12.7,0,1,False
+66211,2,Kolkata Knight Riders,KKR,10808,Siraj,4.0,0,44,0,1,11.0,1,7,False
+66211,2,Kolkata Knight Riders,KKR,6592,Willey,4.0,1,16,0,2,4.0,0,1,True
+66211,2,Kolkata Knight Riders,KKR,14726,Akash Deep,2.0,0,30,0,0,15.0,2,1,False
+66211,2,Kolkata Knight Riders,KKR,9551,M Bracewell,3.0,0,34,0,1,11.3,0,0,True
+66211,2,Kolkata Knight Riders,KKR,14606,Shahbaz Ahmed,1.0,0,6,0,0,6.0,0,0,False
+66211,2,Kolkata Knight Riders,KKR,1844,Karn Sharma,3.0,0,26,0,2,8.7,0,0,False
+66211,2,Kolkata Knight Riders,KKR,8175,Harshal Patel,3.0,0,38,0,1,12.7,0,1,False

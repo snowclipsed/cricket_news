@@ -1,0 +1,13 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66236,1,Sunrisers Hyderabad,SRH,1726,Bhuvneshwar,4.0,0,33,0,1,8.2,0,3,False
+66236,1,Sunrisers Hyderabad,SRH,14565,Marco Jansen,3.0,1,16,0,2,5.3,0,1,True
+66236,1,Sunrisers Hyderabad,SRH,10225,T Natarajan,4.0,0,40,0,0,10.0,0,0,False
+66236,1,Sunrisers Hyderabad,SRH,10945,Washington Sundar,1.0,0,6,0,0,6.0,0,0,False
+66236,1,Sunrisers Hyderabad,SRH,12627,Markande,4.0,0,15,0,4,3.8,0,0,False
+66236,1,Sunrisers Hyderabad,SRH,19027,Umran Malik,4.0,0,32,0,2,8.0,0,1,False
+66236,2,Punjab Kings,PBKS,1726,Bhuvneshwar,4.0,0,33,0,1,8.2,0,3,False
+66236,2,Punjab Kings,PBKS,14565,Marco Jansen,3.0,1,16,0,2,5.3,0,1,True
+66236,2,Punjab Kings,PBKS,10225,T Natarajan,4.0,0,40,0,0,10.0,0,0,False
+66236,2,Punjab Kings,PBKS,10945,Washington Sundar,1.0,0,6,0,0,6.0,0,0,False
+66236,2,Punjab Kings,PBKS,12627,Markande,4.0,0,15,0,4,3.8,0,0,False
+66236,2,Punjab Kings,PBKS,19027,Umran Malik,4.0,0,32,0,2,8.0,0,1,False

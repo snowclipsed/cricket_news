@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66243,1,Delhi Capitals,DC,1739,Warner,51,47,0,6,0,108.51,c Riley Meredith b Behrendorff,7773,CAUGHT,True
+66243,1,Delhi Capitals,DC,12094,Prithvi Shaw,15,10,0,3,0,150.0,c Green b Hrithik Shokeen,14595,CAUGHT,False
+66243,1,Delhi Capitals,DC,1836,Manish Pandey,26,18,0,5,0,144.44,c Behrendorff b Chawla,466,CAUGHT,False
+66243,1,Delhi Capitals,DC,22556,Yash Dhull,2,4,0,0,0,50.0,c Nehal Wadhera b Riley Meredith,12226,CAUGHT,False
+66243,1,Delhi Capitals,DC,11445,Rovman Powell,4,4,0,1,0,100.0,lbw b Chawla,466,LBW,True
+66243,1,Delhi Capitals,DC,13252,Lalit Yadav,2,4,0,0,0,50.0,b Chawla,466,BOWLED,False
+66243,1,Delhi Capitals,DC,8808,Axar,54,25,0,4,5,216.0,c Arshad Khan b Behrendorff,7773,CAUGHT,False
+66243,1,Delhi Capitals,DC,24326,Abishek Porel,1,3,0,0,0,33.33,c Green b Behrendorff,7773,CAUGHT,False
+66243,1,Delhi Capitals,DC,8292,Kuldeep Yadav,0,1,0,0,0,0.0,run out (Nehal Wadhera),0,RUNOUT,False
+66243,1,Delhi Capitals,DC,11427,Nortje,5,3,0,1,0,166.67,b Riley Meredith,12226,BOWLED,True
+66243,1,Delhi Capitals,DC,9863,Mustafizur,1,1,0,0,0,100.0,not out,0,,True
+66243,1,Delhi Capitals,DC,10754,Mukesh Kumar,0,0,0,0,0,0.0,,0,,False
+66243,2,Mumbai Indians,MI,576,Rohit Sharma,65,45,19,6,4,144.44,c Abishek Porel b Mustafizur,9863,CAUGHT,False
+66243,2,Mumbai Indians,MI,10276,Ishan Kishan,31,26,13,6,0,119.23,run out (Mukesh Kumar/Lalit Yadav),0,RUNOUT,False
+66243,2,Mumbai Indians,MI,14504,Tilak Varma,41,29,11,1,4,141.38,c Manish Pandey b Mukesh Kumar,10754,CAUGHT,False
+66243,2,Mumbai Indians,MI,7915,Suryakumar Yadav,0,1,1,0,0,0.0,c Kuldeep Yadav b Mukesh Kumar,10754,CAUGHT,False
+66243,2,Mumbai Indians,MI,13169,Tim David,13,11,5,0,1,118.18,not out,0,,True
+66243,2,Mumbai Indians,MI,12225,Cameron Green,17,8,0,1,1,212.5,not out,0,,True
+66243,2,Mumbai Indians,MI,13915,Nehal Wadhera,0,0,0,0,0,0.0,,0,,False
+66243,2,Mumbai Indians,MI,14595,Hrithik Shokeen,0,0,0,0,0,0.0,,0,,False
+66243,2,Mumbai Indians,MI,18637,Arshad Khan,0,0,0,0,0,0.0,,0,,False
+66243,2,Mumbai Indians,MI,7773,Jason Behrendorff,0,0,0,0,0,0.0,,0,,True
+66243,2,Mumbai Indians,MI,12226,Riley Meredith,0,0,0,0,0,0.0,,0,,True
+66243,2,Mumbai Indians,MI,466,Piyush Chawla,0,0,0,0,0,0.0,,0,,False

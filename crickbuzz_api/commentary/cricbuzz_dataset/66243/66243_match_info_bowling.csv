@@ -1,0 +1,15 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66243,1,Mumbai Indians,MI,7773,Behrendorff,3.0,0,23,0,3,7.7,0,0,True
+66243,1,Mumbai Indians,MI,18637,Arshad Khan,1.0,0,12,0,0,12.0,0,1,False
+66243,1,Mumbai Indians,MI,12225,Green,3.0,0,30,0,0,10.0,0,1,True
+66243,1,Mumbai Indians,MI,14595,Hrithik Shokeen,4.0,0,43,0,1,10.8,1,5,False
+66243,1,Mumbai Indians,MI,12226,Riley Meredith,3.4,0,34,0,2,9.3,1,0,True
+66243,1,Mumbai Indians,MI,466,Chawla,4.0,0,22,0,3,5.5,0,0,False
+66243,1,Mumbai Indians,MI,14504,Tilak Varma,1.0,0,7,0,0,7.0,0,1,False
+66243,2,Delhi Capitals,DC,7773,Behrendorff,3.0,0,23,0,3,7.7,0,0,True
+66243,2,Delhi Capitals,DC,18637,Arshad Khan,1.0,0,12,0,0,12.0,0,1,False
+66243,2,Delhi Capitals,DC,12225,Green,3.0,0,30,0,0,10.0,0,1,True
+66243,2,Delhi Capitals,DC,14595,Hrithik Shokeen,4.0,0,43,0,1,10.8,1,5,False
+66243,2,Delhi Capitals,DC,12226,Riley Meredith,3.4,0,34,0,2,9.3,1,0,True
+66243,2,Delhi Capitals,DC,466,Chawla,4.0,0,22,0,3,5.5,0,0,False
+66243,2,Delhi Capitals,DC,14504,Tilak Varma,1.0,0,7,0,0,7.0,0,1,False

@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66271,1,Kolkata Knight Riders,KKR,13213,Gurbaz,8,12,0,0,0,66.67,c Duan Jansen b Chawla,466,CAUGHT,True
+66271,1,Kolkata Knight Riders,KKR,11675,N Jagadeesan,0,5,0,0,0,0.0,c Hrithik Shokeen b Green,12225,CAUGHT,False
+66271,1,Kolkata Knight Riders,KKR,10917,Venkatesh Iyer,104,51,0,6,9,203.92,c Duan Jansen b Riley Meredith,12226,CAUGHT,False
+66271,1,Kolkata Knight Riders,KKR,9204,Nitish Rana,5,10,0,0,0,50.0,c (sub)Ramandeep Singh b Hrithik Shokeen,14595,CAUGHT,False
+66271,1,Kolkata Knight Riders,KKR,8683,Thakur,13,11,0,1,0,118.18,c Tilak Varma b Hrithik Shokeen,14595,CAUGHT,False
+66271,1,Kolkata Knight Riders,KKR,10896,Rinku Singh,18,18,0,2,0,100.0,c Nehal Wadhera b Duan Jansen,18523,CAUGHT,False
+66271,1,Kolkata Knight Riders,KKR,7736,Russell,21,11,0,3,1,190.91,not out,0,,True
+66271,1,Kolkata Knight Riders,KKR,2276,Narine,2,2,0,0,0,100.0,not out,0,,True
+66271,1,Kolkata Knight Riders,KKR,1858,Umesh,0,0,0,0,0,0.0,,0,,False
+66271,1,Kolkata Knight Riders,KKR,10692,Lockie Ferguson,0,0,0,0,0,0.0,,0,,True
+66271,1,Kolkata Knight Riders,KKR,12926,Chakaravarthy,0,0,0,0,0,0.0,,0,,False
+66271,1,Kolkata Knight Riders,KKR,36487,Suyash Sharma,0,0,0,0,0,0.0,,0,,False
+66271,2,Mumbai Indians,MI,576,Rohit Sharma,20,13,6,1,2,153.85,c Umesh b Suyash Sharma,36487,CAUGHT,False
+66271,2,Mumbai Indians,MI,10276,Ishan Kishan,58,25,7,5,5,232.0,b Chakaravarthy,12926,BOWLED,False
+66271,2,Mumbai Indians,MI,7915,Suryakumar Yadav,43,25,10,4,3,172.0,c Gurbaz b Thakur,8683,CAUGHT,False
+66271,2,Mumbai Indians,MI,14504,Tilak Varma,30,25,11,3,1,120.0,b Suyash Sharma,36487,BOWLED,False
+66271,2,Mumbai Indians,MI,13169,Tim David,24,13,3,1,2,184.62,not out,0,,True
+66271,2,Mumbai Indians,MI,13915,Nehal Wadhera,6,4,1,1,0,150.0,c Gurbaz b Lockie Ferguson,10692,CAUGHT,False
+66271,2,Mumbai Indians,MI,12225,Cameron Green,1,1,0,0,0,100.0,not out,0,,True
+66271,2,Mumbai Indians,MI,13747,Arjun Tendulkar,0,0,0,0,0,0.0,,0,,False
+66271,2,Mumbai Indians,MI,14595,Hrithik Shokeen,0,0,0,0,0,0.0,,0,,False
+66271,2,Mumbai Indians,MI,466,Piyush Chawla,0,0,0,0,0,0.0,,0,,False
+66271,2,Mumbai Indians,MI,18523,Duan Jansen,0,0,0,0,0,0.0,,0,,True
+66271,2,Mumbai Indians,MI,12226,Riley Meredith,0,0,0,0,0,0.0,,0,,True

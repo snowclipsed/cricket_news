@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66274,1,Gujarat Titans,GT,1465,W Saha,4,3,0,1,0,133.33,c and b Boult,8117,CAUGHTBOWLED,False
+66274,1,Gujarat Titans,GT,11808,Shubman Gill,45,34,0,4,1,132.35,c Jos Buttler b Sandeep Sharma,8356,CAUGHT,False
+66274,1,Gujarat Titans,GT,13866,Sai Sudharsan,20,19,0,2,0,105.26,run out (Jos Buttler/Samson),0,RUNOUT,False
+66274,1,Gujarat Titans,GT,9647,Hardik Pandya,28,19,0,3,1,147.37,c Yashasvi Jaiswal b Chahal,7910,CAUGHT,False
+66274,1,Gujarat Titans,GT,6349,Miller,46,30,0,3,2,153.33,c Hetmyer b Sandeep Sharma,8356,CAUGHT,True
+66274,1,Gujarat Titans,GT,10499,Abhinav Manohar,27,13,0,0,3,207.69,c Padikkal b Zampa,8642,CAUGHT,False
+66274,1,Gujarat Titans,GT,9693,Rahul Tewatia,1,1,0,0,0,100.0,not out,0,,False
+66274,1,Gujarat Titans,GT,10738,Rashid Khan,1,1,0,0,0,100.0,run out (Jos Buttler/Sandeep Sharma),0,RUNOUT,True
+66274,1,Gujarat Titans,GT,11220,Alzarri Joseph,0,0,0,0,0,0.0,not out,0,,True
+66274,1,Gujarat Titans,GT,7909,Shami,0,0,0,0,0,0.0,,0,,False
+66274,1,Gujarat Titans,GT,8181,Mohit Sharma,0,0,0,0,0,0.0,,0,,False
+66274,1,Gujarat Titans,GT,15452,Noor Ahmad,0,0,0,0,0,0.0,,0,,True
+66274,2,Rajasthan Royals,RR,13940,Yashasvi Jaiswal,1,7,6,0,0,14.29,c Shubman Gill b Hardik Pandya,9647,CAUGHT,False
+66274,2,Rajasthan Royals,RR,2258,Jos Buttler,0,5,5,0,0,0.0,b Shami,7909,BOWLED,True
+66274,2,Rajasthan Royals,RR,13088,Devdutt Padikkal,26,25,15,2,2,104.0,c Mohit Sharma b Rashid Khan,10738,CAUGHT,False
+66274,2,Rajasthan Royals,RR,8271,Sanju Samson,60,32,11,3,6,187.5,c Miller b Noor Ahmad,15452,CAUGHT,False
+66274,2,Rajasthan Royals,RR,12305,Riyan Parag,5,7,2,0,0,71.43,c Miller b Rashid Khan,10738,CAUGHT,False
+66274,2,Rajasthan Royals,RR,9789,Shimron Hetmyer,56,26,5,2,5,215.38,not out,0,,True
+66274,2,Rajasthan Royals,RR,14691,Dhruv Jurel,18,10,3,2,1,180.0,c Mohit Sharma b Shami,7909,CAUGHT,False
+66274,2,Rajasthan Royals,RR,1593,Ravichandran Ashwin,10,3,1,1,1,333.33,c Rahul Tewatia b Shami,7909,CAUGHT,False
+66274,2,Rajasthan Royals,RR,8117,Trent Boult,0,1,1,0,0,0.0,not out,0,,True
+66274,2,Rajasthan Royals,RR,8642,Adam Zampa,0,0,0,0,0,0.0,,0,,True
+66274,2,Rajasthan Royals,RR,8356,Sandeep Sharma,0,0,0,0,0,0.0,,0,,False
+66274,2,Rajasthan Royals,RR,7910,Yuzvendra Chahal,0,0,0,0,0,0.0,,0,,False

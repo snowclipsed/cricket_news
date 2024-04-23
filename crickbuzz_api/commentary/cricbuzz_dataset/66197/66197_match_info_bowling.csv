@@ -1,0 +1,15 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66197,1,Lucknow Super Giants,LSG,8440,K Mayers,2.0,0,16,0,0,8.0,0,1,True
+66197,1,Lucknow Super Giants,LSG,9781,Avesh Khan,3.0,0,39,0,1,13.0,0,5,False
+66197,1,Lucknow Super Giants,LSG,11311,Krunal Pandya,2.0,0,21,0,0,10.5,0,0,False
+66197,1,Lucknow Super Giants,LSG,8925,K Gowtham,1.0,0,20,0,0,20.0,0,0,False
+66197,1,Lucknow Super Giants,LSG,8383,Mark Wood,4.0,0,49,0,3,12.2,0,0,True
+66197,1,Lucknow Super Giants,LSG,12096,Yash Thakur,4.0,0,36,0,0,9.0,1,0,False
+66197,1,Lucknow Super Giants,LSG,14659,Ravi Bishnoi,4.0,0,28,0,3,7.0,0,1,False
+66197,2,Chennai Super Kings,CSK,8440,K Mayers,2.0,0,16,0,0,8.0,0,1,True
+66197,2,Chennai Super Kings,CSK,9781,Avesh Khan,3.0,0,39,0,1,13.0,0,5,False
+66197,2,Chennai Super Kings,CSK,11311,Krunal Pandya,2.0,0,21,0,0,10.5,0,0,False
+66197,2,Chennai Super Kings,CSK,8925,K Gowtham,1.0,0,20,0,0,20.0,0,0,False
+66197,2,Chennai Super Kings,CSK,8383,Mark Wood,4.0,0,49,0,3,12.2,0,0,True
+66197,2,Chennai Super Kings,CSK,12096,Yash Thakur,4.0,0,36,0,0,9.0,1,0,False
+66197,2,Chennai Super Kings,CSK,14659,Ravi Bishnoi,4.0,0,28,0,3,7.0,0,1,False

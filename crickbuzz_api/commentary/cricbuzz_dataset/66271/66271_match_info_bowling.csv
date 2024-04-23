@@ -1,0 +1,13 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66271,1,Mumbai Indians,MI,13747,Arjun Tendulkar,2.0,0,17,0,0,8.5,0,1,False
+66271,1,Mumbai Indians,MI,12225,Green,2.0,0,20,0,1,10.0,0,6,True
+66271,1,Mumbai Indians,MI,18523,Duan Jansen,4.0,0,53,0,1,13.2,0,4,True
+66271,1,Mumbai Indians,MI,466,Chawla,4.0,0,19,0,1,4.8,0,0,False
+66271,1,Mumbai Indians,MI,14595,Hrithik Shokeen,4.0,0,34,0,2,8.5,0,1,False
+66271,1,Mumbai Indians,MI,12226,Riley Meredith,4.0,0,40,0,1,10.0,0,0,True
+66271,2,Kolkata Knight Riders,KKR,13747,Arjun Tendulkar,2.0,0,17,0,0,8.5,0,1,False
+66271,2,Kolkata Knight Riders,KKR,12225,Green,2.0,0,20,0,1,10.0,0,6,True
+66271,2,Kolkata Knight Riders,KKR,18523,Duan Jansen,4.0,0,53,0,1,13.2,0,4,True
+66271,2,Kolkata Knight Riders,KKR,466,Chawla,4.0,0,19,0,1,4.8,0,0,False
+66271,2,Kolkata Knight Riders,KKR,14595,Hrithik Shokeen,4.0,0,34,0,2,8.5,0,1,False
+66271,2,Kolkata Knight Riders,KKR,12226,Riley Meredith,4.0,0,40,0,1,10.0,0,0,True

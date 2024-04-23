@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66232,1,Gujarat Titans,GT,1465,W Saha,17,17,0,3,0,100.0,c N Jagadeesan b Narine,2276,CAUGHT,False
+66232,1,Gujarat Titans,GT,11808,Shubman Gill,39,31,0,5,0,125.81,c Umesh b Narine,2276,CAUGHT,False
+66232,1,Gujarat Titans,GT,13866,Sai Sudharsan,53,38,0,3,2,139.47,c (sub)Anukul Roy b Narine,2276,CAUGHT,False
+66232,1,Gujarat Titans,GT,10499,Abhinav Manohar,14,8,0,3,0,175.0,b Suyash Sharma,36487,BOWLED,False
+66232,1,Gujarat Titans,GT,8204,Vijay Shankar,63,24,0,4,5,262.5,not out,0,,False
+66232,1,Gujarat Titans,GT,6349,Miller,2,3,0,0,0,66.67,not out,0,,True
+66232,1,Gujarat Titans,GT,9693,Rahul Tewatia,0,0,0,0,0,0.0,,0,,False
+66232,1,Gujarat Titans,GT,10738,Rashid Khan,0,0,0,0,0,0.0,,0,,True
+66232,1,Gujarat Titans,GT,7909,Shami,0,0,0,0,0,0.0,,0,,False
+66232,1,Gujarat Titans,GT,11220,Alzarri Joseph,0,0,0,0,0,0.0,,0,,True
+66232,1,Gujarat Titans,GT,14172,Yash Dayal,0,0,0,0,0,0.0,,0,,False
+66232,1,Gujarat Titans,GT,11128,Joshua Little,0,0,0,0,0,0.0,,0,,True
+66232,2,Kolkata Knight Riders,KKR,13213,Rahmanullah Gurbaz,15,12,7,1,1,125.0,c Yash Dayal b Shami,7909,CAUGHT,True
+66232,2,Kolkata Knight Riders,KKR,11675,N Jagadeesan,6,8,5,1,0,75.0,c Abhinav Manohar b Joshua Little,11128,CAUGHT,False
+66232,2,Kolkata Knight Riders,KKR,10917,Venkatesh Iyer,83,40,9,8,5,207.5,c Shubman Gill b Alzarri Joseph,11220,CAUGHT,False
+66232,2,Kolkata Knight Riders,KKR,9204,Nitish Rana,45,29,12,4,3,155.17,c Shami b Alzarri Joseph,11220,CAUGHT,False
+66232,2,Kolkata Knight Riders,KKR,10896,Rinku Singh,48,21,6,1,6,228.57,not out,0,,False
+66232,2,Kolkata Knight Riders,KKR,7736,Andre Russell,1,2,1,0,0,50.0,c (sub)Srikar Bharat b Rashid Khan,10738,CAUGHT,True
+66232,2,Kolkata Knight Riders,KKR,2276,Sunil Narine,0,1,1,0,0,0.0,c (sub)Jayant Yadav b Rashid Khan,10738,CAUGHT,True
+66232,2,Kolkata Knight Riders,KKR,8683,Shardul Thakur,0,1,1,0,0,0.0,lbw b Rashid Khan,10738,LBW,False
+66232,2,Kolkata Knight Riders,KKR,1858,Umesh Yadav,5,6,1,0,0,83.33,not out,0,,False
+66232,2,Kolkata Knight Riders,KKR,36487,Suyash Sharma,0,0,0,0,0,0.0,,0,,False
+66232,2,Kolkata Knight Riders,KKR,10692,Lockie Ferguson,0,0,0,0,0,0.0,,0,,True
+66232,2,Kolkata Knight Riders,KKR,12926,Varun Chakaravarthy,0,0,0,0,0,0.0,,0,,False

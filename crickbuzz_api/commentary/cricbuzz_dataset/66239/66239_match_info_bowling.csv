@@ -1,0 +1,13 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66239,1,Lucknow Super Giants,LSG,6327,Jaydev Unadkat,2.0,0,27,0,0,13.5,0,1,False
+66239,1,Lucknow Super Giants,LSG,9781,Avesh Khan,4.0,0,53,0,0,13.2,0,0,False
+66239,1,Lucknow Super Giants,LSG,11311,Krunal Pandya,4.0,0,35,0,0,8.8,0,0,False
+66239,1,Lucknow Super Giants,LSG,8383,Mark Wood,4.0,1,32,0,1,8.0,0,2,True
+66239,1,Lucknow Super Giants,LSG,14659,Ravi Bishnoi,4.0,0,39,0,0,9.8,0,1,False
+66239,1,Lucknow Super Giants,LSG,1454,Amit Mishra,2.0,0,18,0,1,9.0,0,0,False
+66239,2,Royal Challengers Bangalore,RCB,6327,Jaydev Unadkat,2.0,0,27,0,0,13.5,0,1,False
+66239,2,Royal Challengers Bangalore,RCB,9781,Avesh Khan,4.0,0,53,0,0,13.2,0,0,False
+66239,2,Royal Challengers Bangalore,RCB,11311,Krunal Pandya,4.0,0,35,0,0,8.8,0,0,False
+66239,2,Royal Challengers Bangalore,RCB,8383,Mark Wood,4.0,1,32,0,1,8.0,0,2,True
+66239,2,Royal Challengers Bangalore,RCB,14659,Ravi Bishnoi,4.0,0,39,0,0,9.8,0,1,False
+66239,2,Royal Challengers Bangalore,RCB,1454,Amit Mishra,2.0,0,18,0,1,9.0,0,0,False

@@ -1,0 +1,11 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66253,1,Gujarat Titans,GT,7909,Shami,4.0,0,44,0,1,11.0,0,1,False
+66253,1,Gujarat Titans,GT,11128,Joshua Little,4.0,0,31,0,1,7.8,0,3,True
+66253,1,Gujarat Titans,GT,11220,Alzarri Joseph,4.0,0,32,0,1,8.0,0,5,True
+66253,1,Gujarat Titans,GT,10738,Rashid Khan,4.0,0,26,0,1,6.5,0,0,True
+66253,1,Gujarat Titans,GT,8181,Mohit Sharma,4.0,0,18,0,2,4.5,0,0,False
+66253,2,Punjab Kings,PBKS,7909,Shami,4.0,0,44,0,1,11.0,0,1,False
+66253,2,Punjab Kings,PBKS,11128,Joshua Little,4.0,0,31,0,1,7.8,0,3,True
+66253,2,Punjab Kings,PBKS,11220,Alzarri Joseph,4.0,0,32,0,1,8.0,0,5,True
+66253,2,Punjab Kings,PBKS,10738,Rashid Khan,4.0,0,26,0,1,6.5,0,0,True
+66253,2,Punjab Kings,PBKS,8181,Mohit Sharma,4.0,0,18,0,2,4.5,0,0,False

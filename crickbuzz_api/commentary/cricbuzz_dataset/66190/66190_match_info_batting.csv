@@ -1,0 +1,24 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66190,1,Mumbai Indians,MI,576,Rohit,1,10,0,0,0,10.0,c Karthik b Akash Deep,14726,CAUGHT,False
+66190,1,Mumbai Indians,MI,10276,Ishan Kishan,10,13,0,2,0,76.92,c Harshal Patel b Siraj,10808,CAUGHT,False
+66190,1,Mumbai Indians,MI,12225,Green,5,4,0,1,0,125.0,b R Topley,8349,BOWLED,True
+66190,1,Mumbai Indians,MI,7915,Suryakumar Yadav,15,16,0,1,0,93.75,c Shahbaz Ahmed b M Bracewell,9551,CAUGHT,False
+66190,1,Mumbai Indians,MI,14504,Tilak Varma,84,46,0,9,4,182.61,not out,0,,False
+66190,1,Mumbai Indians,MI,13915,Nehal Wadhera,21,13,0,1,2,161.54,c Kohli b Karn Sharma,1844,CAUGHT,False
+66190,1,Mumbai Indians,MI,13169,Tim David,4,7,0,0,0,57.14,b Karn Sharma,1844,BOWLED,True
+66190,1,Mumbai Indians,MI,14595,Hrithik Shokeen,5,3,0,1,0,166.67,c du Plessis b Harshal Patel,8175,CAUGHT,False
+66190,1,Mumbai Indians,MI,18637,Arshad Khan,15,9,0,0,1,166.67,not out,0,,False
+66190,1,Mumbai Indians,MI,466,Chawla,0,0,0,0,0,0.0,,0,,False
+66190,1,Mumbai Indians,MI,11540,Jofra Archer,0,0,0,0,0,0.0,,0,,True
+66190,1,Mumbai Indians,MI,7773,Behrendorff,0,0,0,0,0,0.0,,0,,True
+66190,2,Royal Challengers Bangalore,RCB,1413,Virat Kohli,82,49,15,6,5,167.35,not out,0,,False
+66190,2,Royal Challengers Bangalore,RCB,7825,Faf du Plessis,73,43,19,5,6,169.77,c Tim David b Arshad Khan,18637,CAUGHT,True
+66190,2,Royal Challengers Bangalore,RCB,145,Dinesh Karthik,0,3,3,0,0,0.0,c Tilak Varma b Green,12225,CAUGHT,False
+66190,2,Royal Challengers Bangalore,RCB,7662,Glenn Maxwell,12,3,1,0,2,400.0,not out,0,,True
+66190,2,Royal Challengers Bangalore,RCB,9551,Michael Bracewell,0,0,0,0,0,0.0,,0,,True
+66190,2,Royal Challengers Bangalore,RCB,14606,Shahbaz Ahmed,0,0,0,0,0,0.0,,0,,False
+66190,2,Royal Challengers Bangalore,RCB,1844,Karn Sharma,0,0,0,0,0,0.0,,0,,False
+66190,2,Royal Challengers Bangalore,RCB,8175,Harshal Patel,0,0,0,0,0,0.0,,0,,False
+66190,2,Royal Challengers Bangalore,RCB,14726,Akash Deep,0,0,0,0,0,0.0,,0,,False
+66190,2,Royal Challengers Bangalore,RCB,8349,Reece Topley,0,0,0,0,0,0.0,,0,,True
+66190,2,Royal Challengers Bangalore,RCB,10808,Mohammed Siraj,0,0,0,0,0,0.0,,0,,False

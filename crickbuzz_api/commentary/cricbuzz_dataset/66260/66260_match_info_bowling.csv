@@ -1,0 +1,13 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66260,1,Delhi Capitals,DC,11427,Nortje,4.0,0,31,0,0,7.8,1,2,True
+66260,1,Delhi Capitals,DC,8808,Axar,3.0,0,25,0,1,8.3,0,0,False
+66260,1,Delhi Capitals,DC,9863,Mustafizur,3.0,0,41,0,0,13.7,0,0,True
+66260,1,Delhi Capitals,DC,6250,Mitchell Marsh,2.0,0,18,0,2,9.0,0,0,True
+66260,1,Delhi Capitals,DC,13252,Lalit Yadav,4.0,0,29,0,1,7.2,0,1,False
+66260,1,Delhi Capitals,DC,8292,Kuldeep Yadav,4.0,1,23,0,2,5.8,0,0,False
+66260,2,Royal Challengers Bangalore,RCB,11427,Nortje,4.0,0,31,0,0,7.8,1,2,True
+66260,2,Royal Challengers Bangalore,RCB,8808,Axar,3.0,0,25,0,1,8.3,0,0,False
+66260,2,Royal Challengers Bangalore,RCB,9863,Mustafizur,3.0,0,41,0,0,13.7,0,0,True
+66260,2,Royal Challengers Bangalore,RCB,6250,Mitchell Marsh,2.0,0,18,0,2,9.0,0,0,True
+66260,2,Royal Challengers Bangalore,RCB,13252,Lalit Yadav,4.0,0,29,0,1,7.2,0,1,False
+66260,2,Royal Challengers Bangalore,RCB,8292,Kuldeep Yadav,4.0,1,23,0,2,5.8,0,0,False

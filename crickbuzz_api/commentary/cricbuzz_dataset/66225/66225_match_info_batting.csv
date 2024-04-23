@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66225,1,Mumbai Indians,MI,576,Rohit,21,13,0,3,1,161.54,b Tushar Deshpande,11307,BOWLED,False
+66225,1,Mumbai Indians,MI,10276,Ishan Kishan,32,21,0,5,0,152.38,c Pretorius b Ravindra Jadeja,587,CAUGHT,False
+66225,1,Mumbai Indians,MI,12225,Green,12,11,0,1,0,109.09,c and b Ravindra Jadeja,587,CAUGHTBOWLED,True
+66225,1,Mumbai Indians,MI,7915,Suryakumar Yadav,1,2,0,0,0,50.0,c Dhoni b Santner,10100,CAUGHT,False
+66225,1,Mumbai Indians,MI,14504,Tilak Varma,22,18,0,2,1,122.22,lbw b Ravindra Jadeja,587,LBW,False
+66225,1,Mumbai Indians,MI,18637,Arshad Khan,2,4,0,0,0,50.0,lbw b Santner,10100,LBW,False
+66225,1,Mumbai Indians,MI,13169,Tim David,31,22,0,1,2,140.91,c Ajinkya Rahane b Tushar Deshpande,11307,CAUGHT,True
+66225,1,Mumbai Indians,MI,19243,Tristan Stubbs,5,10,0,0,0,50.0,c Ruturaj Gaikwad b Magala,10172,CAUGHT,True
+66225,1,Mumbai Indians,MI,14595,Hrithik Shokeen,18,13,0,3,0,138.46,not out,0,,False
+66225,1,Mumbai Indians,MI,466,Chawla,5,6,0,0,0,83.33,not out,0,,False
+66225,1,Mumbai Indians,MI,7773,Behrendorff,0,0,0,0,0,0.0,,0,,True
+66225,1,Mumbai Indians,MI,14190,Kumar Kartikeya,0,0,0,0,0,0.0,,0,,False
+66225,2,Chennai Super Kings,CSK,9838,Devon Conway,0,4,4,0,0,0.0,b Behrendorff,7773,BOWLED,True
+66225,2,Chennai Super Kings,CSK,11813,Ruturaj Gaikwad,40,36,10,2,1,111.11,not out,0,,False
+66225,2,Chennai Super Kings,CSK,1447,Ajinkya Rahane,61,27,4,7,3,225.93,c Suryakumar Yadav b Chawla,466,CAUGHT,False
+66225,2,Chennai Super Kings,CSK,11195,Shivam Dube,28,26,11,2,1,107.69,b Kumar Kartikeya,14190,BOWLED,False
+66225,2,Chennai Super Kings,CSK,6311,Ambati Rayudu,20,16,6,3,0,125.0,not out,0,,False
+66225,2,Chennai Super Kings,CSK,587,Ravindra Jadeja,0,0,0,0,0,0.0,,0,,False
+66225,2,Chennai Super Kings,CSK,265,MS Dhoni,0,0,0,0,0,0.0,,0,,False
+66225,2,Chennai Super Kings,CSK,8651,Dwaine Pretorius,0,0,0,0,0,0.0,,0,,True
+66225,2,Chennai Super Kings,CSK,7836,Deepak Chahar,0,0,0,0,0,0.0,,0,,False
+66225,2,Chennai Super Kings,CSK,10100,Mitchell Santner,0,0,0,0,0,0.0,,0,,True
+66225,2,Chennai Super Kings,CSK,10172,Sisanda Magala,0,0,0,0,0,0.0,,0,,True
+66225,2,Chennai Super Kings,CSK,11307,Tushar Deshpande,0,0,0,0,0,0.0,,0,,False

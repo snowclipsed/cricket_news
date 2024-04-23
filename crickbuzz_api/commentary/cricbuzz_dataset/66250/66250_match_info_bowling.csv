@@ -1,0 +1,13 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66250,1,Chennai Super Kings,CSK,14696,Akash Singh,4.0,0,40,0,2,10.0,0,1,False
+66250,1,Chennai Super Kings,CSK,11307,Tushar Deshpande,4.0,0,37,0,2,9.2,0,1,False
+66250,1,Chennai Super Kings,CSK,18504,M Theekshana,4.0,0,42,0,0,10.5,0,0,True
+66250,1,Chennai Super Kings,CSK,587,Ravindra Jadeja,4.0,0,21,0,2,5.2,0,7,False
+66250,1,Chennai Super Kings,CSK,6692,Moeen,2.0,0,21,0,1,10.5,0,0,True
+66250,1,Chennai Super Kings,CSK,10172,Magala,2.0,0,14,0,0,7.0,0,1,True
+66250,2,Rajasthan Royals,RR,14696,Akash Singh,4.0,0,40,0,2,10.0,0,1,False
+66250,2,Rajasthan Royals,RR,11307,Tushar Deshpande,4.0,0,37,0,2,9.2,0,1,False
+66250,2,Rajasthan Royals,RR,18504,M Theekshana,4.0,0,42,0,0,10.5,0,0,True
+66250,2,Rajasthan Royals,RR,587,Ravindra Jadeja,4.0,0,21,0,2,5.2,0,7,False
+66250,2,Rajasthan Royals,RR,6692,Moeen,2.0,0,21,0,1,10.5,0,0,True
+66250,2,Rajasthan Royals,RR,10172,Magala,2.0,0,14,0,0,7.0,0,1,True

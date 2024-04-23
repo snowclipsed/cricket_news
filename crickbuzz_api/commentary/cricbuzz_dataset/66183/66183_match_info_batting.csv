@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66183,1,Rajasthan Royals,RR,13940,Yashasvi Jaiswal,54,37,0,9,0,145.95,c Mayank Agarwal b Fazalhaq Farooqi,14282,CAUGHT,False
+66183,1,Rajasthan Royals,RR,2258,Jos Buttler,54,22,0,7,3,245.45,b Fazalhaq Farooqi,14282,BOWLED,True
+66183,1,Rajasthan Royals,RR,8271,Samson,55,32,0,3,4,171.88,c Abhishek Sharma b T Natarajan,10225,CAUGHT,False
+66183,1,Rajasthan Royals,RR,13088,Padikkal,2,5,0,0,0,40.0,b Umran Malik,19027,BOWLED,False
+66183,1,Rajasthan Royals,RR,12305,Riyan Parag,7,6,0,1,0,116.67,c Fazalhaq Farooqi b T Natarajan,10225,CAUGHT,False
+66183,1,Rajasthan Royals,RR,9789,Hetmyer,22,16,0,1,1,137.5,not out,0,,True
+66183,1,Rajasthan Royals,RR,1593,Ashwin,1,2,0,0,0,50.0,not out,0,,False
+66183,1,Rajasthan Royals,RR,8313,Holder,0,0,0,0,0,0.0,,0,,True
+66183,1,Rajasthan Royals,RR,8117,Boult,0,0,0,0,0,0.0,,0,,True
+66183,1,Rajasthan Royals,RR,13483,KM Asif,0,0,0,0,0,0.0,,0,,False
+66183,1,Rajasthan Royals,RR,7910,Chahal,0,0,0,0,0,0.0,,0,,False
+66183,1,Rajasthan Royals,RR,9715,Navdeep Saini,0,0,0,0,0,0.0,,0,,False
+66183,2,Sunrisers Hyderabad,SRH,12086,Abhishek Sharma,0,3,3,0,0,0.0,b Boult,8117,BOWLED,False
+66183,2,Sunrisers Hyderabad,SRH,2195,Mayank Agarwal,27,23,6,3,0,117.39,c Jos Buttler b Chahal,7910,CAUGHT,False
+66183,2,Sunrisers Hyderabad,SRH,9012,Rahul Tripathi,0,2,2,0,0,0.0,c Holder b Boult,8117,CAUGHT,False
+66183,2,Sunrisers Hyderabad,SRH,12201,Harry Brook,13,21,14,1,0,61.9,b Chahal,7910,BOWLED,True
+66183,2,Sunrisers Hyderabad,SRH,10945,Washington Sundar,1,5,4,0,0,20.0,c Hetmyer b Holder,8313,CAUGHT,False
+66183,2,Sunrisers Hyderabad,SRH,10693,Glenn Phillips,8,6,3,0,1,133.33,c KM Asif b Ashwin,1593,CAUGHT,True
+66183,2,Sunrisers Hyderabad,SRH,14628,Abdul Samad,32,32,13,2,1,100.0,not out,0,,False
+66183,2,Sunrisers Hyderabad,SRH,1742,Adil Rashid,18,13,5,1,1,138.46,st Samson b Chahal,7910,STUMPED,True
+66183,2,Sunrisers Hyderabad,SRH,1726,Bhuvneshwar Kumar,6,10,5,0,0,60.0,b Chahal,7910,BOWLED,False
+66183,2,Sunrisers Hyderabad,SRH,19027,Umran Malik,19,8,3,1,2,237.5,not out,0,,False
+66183,2,Sunrisers Hyderabad,SRH,10225,T Natarajan,0,0,0,0,0,0.0,,0,,False
+66183,2,Sunrisers Hyderabad,SRH,14282,Fazalhaq Farooqi,0,0,0,0,0,0.0,,0,,True

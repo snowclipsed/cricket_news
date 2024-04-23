@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66204,1,Delhi Capitals,DC,1739,Warner,37,32,0,7,0,115.62,b Alzarri Joseph,11220,BOWLED,True
+66204,1,Delhi Capitals,DC,12094,Prithvi Shaw,7,5,0,1,0,140.0,c Alzarri Joseph b Shami,7909,CAUGHT,False
+66204,1,Delhi Capitals,DC,6250,Mitchell Marsh,4,4,0,1,0,100.0,b Shami,7909,BOWLED,True
+66204,1,Delhi Capitals,DC,9429,Sarfaraz Khan,30,34,0,2,0,88.24,c Joshua Little b Rashid Khan,10738,CAUGHT,False
+66204,1,Delhi Capitals,DC,2244,Rossouw,0,1,0,0,0,0.0,c Rahul Tewatia b Alzarri Joseph,11220,CAUGHT,True
+66204,1,Delhi Capitals,DC,24326,Abishek Porel,20,11,0,0,2,181.82,b Rashid Khan,10738,BOWLED,False
+66204,1,Delhi Capitals,DC,8808,Axar,36,22,0,2,3,163.64,c Miller b Shami,7909,CAUGHT,False
+66204,1,Delhi Capitals,DC,19473,Aman Hakim Khan,8,8,0,0,1,100.0,c Hardik Pandya b Rashid Khan,10738,CAUGHT,False
+66204,1,Delhi Capitals,DC,8292,Kuldeep Yadav,1,1,0,0,0,100.0,not out,0,,False
+66204,1,Delhi Capitals,DC,11427,Nortje,4,2,0,1,0,200.0,not out,0,,True
+66204,1,Delhi Capitals,DC,10754,Mukesh Kumar,0,0,0,0,0,0.0,,0,,False
+66204,1,Delhi Capitals,DC,10952,Khaleel Ahmed,0,0,0,0,0,0.0,,0,,False
+66204,2,Gujarat Titans,GT,1465,Wriddhiman Saha,14,7,4,2,1,200.0,b Nortje,11427,BOWLED,False
+66204,2,Gujarat Titans,GT,11808,Shubman Gill,14,13,8,3,0,107.69,b Nortje,11427,BOWLED,False
+66204,2,Gujarat Titans,GT,13866,Sai Sudharsan,62,48,13,4,2,129.17,not out,0,,False
+66204,2,Gujarat Titans,GT,9647,Hardik Pandya,5,4,2,1,0,125.0,c Abishek Porel b Khaleel Ahmed,10952,CAUGHT,False
+66204,2,Gujarat Titans,GT,8204,Vijay Shankar,29,23,6,3,0,126.09,lbw b Mitchell Marsh,6250,LBW,False
+66204,2,Gujarat Titans,GT,6349,David Miller,31,16,2,2,2,193.75,not out,0,,True
+66204,2,Gujarat Titans,GT,9693,Rahul Tewatia,0,0,0,0,0,0.0,,0,,False
+66204,2,Gujarat Titans,GT,10738,Rashid Khan,0,0,0,0,0,0.0,,0,,True
+66204,2,Gujarat Titans,GT,7909,Mohammed Shami,0,0,0,0,0,0.0,,0,,False
+66204,2,Gujarat Titans,GT,11128,Joshua Little,0,0,0,0,0,0.0,,0,,True
+66204,2,Gujarat Titans,GT,14172,Yash Dayal,0,0,0,0,0,0.0,,0,,False
+66204,2,Gujarat Titans,GT,11220,Alzarri Joseph,0,0,0,0,0,0.0,,0,,True

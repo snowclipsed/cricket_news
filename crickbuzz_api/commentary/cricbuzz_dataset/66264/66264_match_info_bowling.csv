@@ -1,0 +1,15 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66264,1,Punjab Kings,PBKS,9456,Matthew Short,2.0,0,10,0,0,5.0,0,0,True
+66264,1,Punjab Kings,PBKS,13217,Arshdeep Singh,3.0,0,22,0,1,7.3,0,1,False
+66264,1,Punjab Kings,PBKS,9585,Rabada,4.0,0,34,0,2,8.5,0,2,True
+66264,1,Punjab Kings,PBKS,10420,Sam Curran,4.0,0,31,0,3,7.8,0,2,True
+66264,1,Punjab Kings,PBKS,14452,Harpreet Brar,2.0,0,10,0,1,5.0,0,0,False
+66264,1,Punjab Kings,PBKS,9354,Raza,2.0,0,19,0,1,9.5,1,0,True
+66264,1,Punjab Kings,PBKS,12087,Rahul Chahar,3.0,0,28,0,0,9.3,0,1,False
+66264,2,Lucknow Super Giants,LSG,9456,Matthew Short,2.0,0,10,0,0,5.0,0,0,True
+66264,2,Lucknow Super Giants,LSG,13217,Arshdeep Singh,3.0,0,22,0,1,7.3,0,1,False
+66264,2,Lucknow Super Giants,LSG,9585,Rabada,4.0,0,34,0,2,8.5,0,2,True
+66264,2,Lucknow Super Giants,LSG,10420,Sam Curran,4.0,0,31,0,3,7.8,0,2,True
+66264,2,Lucknow Super Giants,LSG,14452,Harpreet Brar,2.0,0,10,0,1,5.0,0,0,False
+66264,2,Lucknow Super Giants,LSG,9354,Raza,2.0,0,19,0,1,9.5,1,0,True
+66264,2,Lucknow Super Giants,LSG,12087,Rahul Chahar,3.0,0,28,0,0,9.3,0,1,False

@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66260,1,Royal Challengers Bangalore,RCB,1413,Kohli,50,34,0,6,1,147.06,c Yash Dhull b Lalit Yadav,13252,CAUGHT,False
+66260,1,Royal Challengers Bangalore,RCB,7825,du Plessis,22,16,0,3,1,137.5,c Aman Hakim Khan b Mitchell Marsh,6250,CAUGHT,True
+66260,1,Royal Challengers Bangalore,RCB,10954,Lomror,26,18,0,0,2,144.44,c Abishek Porel b Mitchell Marsh,6250,CAUGHT,False
+66260,1,Royal Challengers Bangalore,RCB,7662,Maxwell,24,14,0,0,3,171.43,c Warner b Kuldeep Yadav,8292,CAUGHT,True
+66260,1,Royal Challengers Bangalore,RCB,8175,Harshal Patel,6,4,0,0,1,150.0,c Abishek Porel b Axar,8808,CAUGHT,False
+66260,1,Royal Challengers Bangalore,RCB,14606,Shahbaz Ahmed,20,12,0,3,0,166.67,not out,0,,False
+66260,1,Royal Challengers Bangalore,RCB,145,Karthik,0,1,0,0,0,0.0,c Lalit Yadav b Kuldeep Yadav,8292,CAUGHT,False
+66260,1,Royal Challengers Bangalore,RCB,13135,Anuj Rawat,15,22,0,1,0,68.18,not out,0,,False
+66260,1,Royal Challengers Bangalore,RCB,10926,W Hasaranga,0,0,0,0,0,0.0,,0,,True
+66260,1,Royal Challengers Bangalore,RCB,1692,Parnell,0,0,0,0,0,0.0,,0,,True
+66260,1,Royal Challengers Bangalore,RCB,10808,Siraj,0,0,0,0,0,0.0,,0,,False
+66260,1,Royal Challengers Bangalore,RCB,10486,Vijaykumar Vyshak,0,0,0,0,0,0.0,,0,,False
+66260,2,Delhi Capitals,DC,1739,David Warner,19,13,6,4,0,146.15,c Kohli b Vijaykumar Vyshak,10486,CAUGHT,True
+66260,2,Delhi Capitals,DC,12094,Prithvi Shaw,0,2,2,0,0,0.0,run out (Anuj Rawat),0,RUNOUT,False
+66260,2,Delhi Capitals,DC,6250,Mitchell Marsh,0,4,4,0,0,0.0,c Kohli b Parnell,1692,CAUGHT,True
+66260,2,Delhi Capitals,DC,22556,Yash Dhull,1,4,3,0,0,25.0,lbw b Siraj,10808,LBW,False
+66260,2,Delhi Capitals,DC,1836,Manish Pandey,50,38,13,5,1,131.58,lbw b W Hasaranga,10926,LBW,False
+66260,2,Delhi Capitals,DC,24326,Abishek Porel,5,8,3,0,0,62.5,c Parnell b Harshal Patel,8175,CAUGHT,False
+66260,2,Delhi Capitals,DC,8808,Axar Patel,21,14,3,3,0,150.0,c Siraj b Vijaykumar Vyshak,10486,CAUGHT,False
+66260,2,Delhi Capitals,DC,19473,Aman Hakim Khan,18,10,2,1,1,180.0,c Kohli b Siraj,10808,CAUGHT,False
+66260,2,Delhi Capitals,DC,13252,Lalit Yadav,4,7,4,0,0,57.14,c Maxwell b Vijaykumar Vyshak,10486,CAUGHT,False
+66260,2,Delhi Capitals,DC,11427,Anrich Nortje,23,14,3,4,0,164.29,not out,0,,True
+66260,2,Delhi Capitals,DC,8292,Kuldeep Yadav,7,6,3,1,0,116.67,not out,0,,False
+66260,2,Delhi Capitals,DC,9863,Mustafizur Rahman,0,0,0,0,0,0.0,,0,,True

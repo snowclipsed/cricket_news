@@ -1,0 +1,11 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66208,1,Rajasthan Royals,RR,8117,Boult,4.0,0,38,0,0,9.5,0,2,True
+66208,1,Rajasthan Royals,RR,13483,KM Asif,4.0,0,54,0,0,13.5,1,4,False
+66208,1,Rajasthan Royals,RR,1593,Ashwin,4.0,0,25,0,1,6.2,0,1,False
+66208,1,Rajasthan Royals,RR,8313,Holder,4.0,0,29,0,2,7.2,0,0,True
+66208,1,Rajasthan Royals,RR,7910,Chahal,4.0,0,50,0,1,12.5,0,1,False
+66208,2,Punjab Kings,PBKS,8117,Boult,4.0,0,38,0,0,9.5,0,2,True
+66208,2,Punjab Kings,PBKS,13483,KM Asif,4.0,0,54,0,0,13.5,1,4,False
+66208,2,Punjab Kings,PBKS,1593,Ashwin,4.0,0,25,0,1,6.2,0,1,False
+66208,2,Punjab Kings,PBKS,8313,Holder,4.0,0,29,0,2,7.2,0,0,True
+66208,2,Punjab Kings,PBKS,7910,Chahal,4.0,0,50,0,1,12.5,0,1,False

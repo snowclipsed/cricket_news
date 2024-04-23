@@ -1,0 +1,11 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66274,1,Rajasthan Royals,RR,8117,Boult,4.0,0,46,0,1,11.5,0,2,True
+66274,1,Rajasthan Royals,RR,8356,Sandeep Sharma,4.0,0,25,0,2,6.2,0,1,False
+66274,1,Rajasthan Royals,RR,8642,Zampa,4.0,0,32,0,1,8.0,0,0,True
+66274,1,Rajasthan Royals,RR,1593,Ashwin,4.0,0,37,0,0,9.2,0,0,False
+66274,1,Rajasthan Royals,RR,7910,Chahal,4.0,0,36,0,1,9.0,0,1,False
+66274,2,Gujarat Titans,GT,8117,Boult,4.0,0,46,0,1,11.5,0,2,True
+66274,2,Gujarat Titans,GT,8356,Sandeep Sharma,4.0,0,25,0,2,6.2,0,1,False
+66274,2,Gujarat Titans,GT,8642,Zampa,4.0,0,32,0,1,8.0,0,0,True
+66274,2,Gujarat Titans,GT,1593,Ashwin,4.0,0,37,0,0,9.2,0,0,False
+66274,2,Gujarat Titans,GT,7910,Chahal,4.0,0,36,0,1,9.0,0,1,False

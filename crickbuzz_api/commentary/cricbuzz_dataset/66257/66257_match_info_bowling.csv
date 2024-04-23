@@ -1,0 +1,15 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66257,1,Kolkata Knight Riders,KKR,1858,Umesh,3.0,0,42,0,0,14.0,0,1,False
+66257,1,Kolkata Knight Riders,KKR,10692,Lockie Ferguson,2.0,0,37,0,0,18.5,1,5,True
+66257,1,Kolkata Knight Riders,KKR,2276,Narine,4.0,0,28,0,0,7.0,0,2,True
+66257,1,Kolkata Knight Riders,KKR,7736,Russell,2.1,0,22,0,3,10.2,0,2,True
+66257,1,Kolkata Knight Riders,KKR,12926,Chakaravarthy,4.0,0,41,0,1,10.2,0,1,False
+66257,1,Kolkata Knight Riders,KKR,36487,Suyash Sharma,4.0,0,44,0,0,11.0,0,0,False
+66257,1,Kolkata Knight Riders,KKR,8683,Thakur,0.5,0,14,0,0,16.8,0,0,False
+66257,2,Sunrisers Hyderabad,SRH,1858,Umesh,3.0,0,42,0,0,14.0,0,1,False
+66257,2,Sunrisers Hyderabad,SRH,10692,Lockie Ferguson,2.0,0,37,0,0,18.5,1,5,True
+66257,2,Sunrisers Hyderabad,SRH,2276,Narine,4.0,0,28,0,0,7.0,0,2,True
+66257,2,Sunrisers Hyderabad,SRH,7736,Russell,2.1,0,22,0,3,10.2,0,2,True
+66257,2,Sunrisers Hyderabad,SRH,12926,Chakaravarthy,4.0,0,41,0,1,10.2,0,1,False
+66257,2,Sunrisers Hyderabad,SRH,36487,Suyash Sharma,4.0,0,44,0,0,11.0,0,0,False
+66257,2,Sunrisers Hyderabad,SRH,8683,Thakur,0.5,0,14,0,0,16.8,0,0,False

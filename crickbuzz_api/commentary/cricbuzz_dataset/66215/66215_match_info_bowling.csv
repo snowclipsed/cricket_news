@@ -1,0 +1,15 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66215,1,Lucknow Super Giants,LSG,8440,K Mayers,1.0,0,5,0,0,5.0,0,0,True
+66215,1,Lucknow Super Giants,LSG,6327,Jaydev Unadkat,3.0,0,26,0,0,8.7,0,1,False
+66215,1,Lucknow Super Giants,LSG,11311,Krunal Pandya,4.0,0,18,0,3,4.5,0,0,False
+66215,1,Lucknow Super Giants,LSG,12096,Yash Thakur,3.0,0,24,0,1,8.0,0,0,False
+66215,1,Lucknow Super Giants,LSG,14659,Ravi Bishnoi,4.0,0,16,0,1,4.0,0,1,False
+66215,1,Lucknow Super Giants,LSG,9427,Deepak Hooda,1.0,0,8,0,0,8.0,0,0,False
+66215,1,Lucknow Super Giants,LSG,1454,Amit Mishra,4.0,0,23,0,2,5.8,0,0,False
+66215,2,Sunrisers Hyderabad,SRH,8440,K Mayers,1.0,0,5,0,0,5.0,0,0,True
+66215,2,Sunrisers Hyderabad,SRH,6327,Jaydev Unadkat,3.0,0,26,0,0,8.7,0,1,False
+66215,2,Sunrisers Hyderabad,SRH,11311,Krunal Pandya,4.0,0,18,0,3,4.5,0,0,False
+66215,2,Sunrisers Hyderabad,SRH,12096,Yash Thakur,3.0,0,24,0,1,8.0,0,0,False
+66215,2,Sunrisers Hyderabad,SRH,14659,Ravi Bishnoi,4.0,0,16,0,1,4.0,0,1,False
+66215,2,Sunrisers Hyderabad,SRH,9427,Deepak Hooda,1.0,0,8,0,0,8.0,0,0,False
+66215,2,Sunrisers Hyderabad,SRH,1454,Amit Mishra,4.0,0,23,0,2,5.8,0,0,False

@@ -1,0 +1,25 @@
+match_id,inning_id,team_name,team_shortname,bat_id,bat_name,runs,balls,dots,fours,sixes,strikeRate,outDesc,bowlerId,wicketCode,isOverseas
+66176,1,Lucknow Super Giants,LSG,8733,Rahul,8,12,0,0,1,66.67,c Axar b Chetan Sakariya,13494,CAUGHT,False
+66176,1,Lucknow Super Giants,LSG,8440,K Mayers,73,38,0,2,7,192.11,b Axar,8808,BOWLED,True
+66176,1,Lucknow Super Giants,LSG,9427,Deepak Hooda,17,18,0,0,0,94.44,c Warner b Kuldeep Yadav,8292,CAUGHT,False
+66176,1,Lucknow Super Giants,LSG,11311,Krunal Pandya,15,13,0,0,1,115.38,not out,0,,False
+66176,1,Lucknow Super Giants,LSG,8989,Stoinis,12,10,0,0,1,120.0,c Sarfaraz Khan b Khaleel Ahmed,10952,CAUGHT,True
+66176,1,Lucknow Super Giants,LSG,9406,Pooran,36,21,0,2,3,171.43,c Prithvi Shaw b Khaleel Ahmed,10952,CAUGHT,True
+66176,1,Lucknow Super Giants,LSG,13907,Ayush Badoni,18,7,0,1,2,257.14,c Sarfaraz Khan b Chetan Sakariya,13494,CAUGHT,False
+66176,1,Lucknow Super Giants,LSG,8925,K Gowtham,6,1,0,0,1,600.0,not out,0,,False
+66176,1,Lucknow Super Giants,LSG,8383,Mark Wood,0,0,0,0,0,0.0,,0,,True
+66176,1,Lucknow Super Giants,LSG,6327,Jaydev Unadkat,0,0,0,0,0,0.0,,0,,False
+66176,1,Lucknow Super Giants,LSG,14659,Ravi Bishnoi,0,0,0,0,0,0.0,,0,,False
+66176,1,Lucknow Super Giants,LSG,9781,Avesh Khan,0,0,0,0,0,0.0,,0,,False
+66176,2,Delhi Capitals,DC,12094,Prithvi Shaw,12,9,3,2,0,133.33,b Mark Wood,8383,BOWLED,False
+66176,2,Delhi Capitals,DC,1739,David Warner,56,48,19,7,0,116.67,c K Gowtham b Avesh Khan,9781,CAUGHT,True
+66176,2,Delhi Capitals,DC,6250,Mitchell Marsh,0,1,1,0,0,0.0,b Mark Wood,8383,BOWLED,True
+66176,2,Delhi Capitals,DC,9429,Sarfaraz Khan,4,9,8,1,0,44.44,c K Gowtham b Mark Wood,8383,CAUGHT,False
+66176,2,Delhi Capitals,DC,2244,Rilee Rossouw,30,20,6,3,1,150.0,c K Mayers b Ravi Bishnoi,14659,CAUGHT,True
+66176,2,Delhi Capitals,DC,11445,Rovman Powell,1,3,2,0,0,33.33,lbw b Ravi Bishnoi,14659,LBW,True
+66176,2,Delhi Capitals,DC,19473,Aman Hakim Khan,4,5,2,0,0,80.0,c Pooran b Avesh Khan,9781,CAUGHT,False
+66176,2,Delhi Capitals,DC,8808,Axar Patel,16,11,3,1,1,145.45,c (sub)Prerak Mankad b Mark Wood,8383,CAUGHT,False
+66176,2,Delhi Capitals,DC,8292,Kuldeep Yadav,6,10,5,0,0,60.0,not out,0,,False
+66176,2,Delhi Capitals,DC,13494,Chetan Sakariya,4,4,3,1,0,100.0,c Krunal Pandya b Mark Wood,8383,CAUGHT,False
+66176,2,Delhi Capitals,DC,10754,Mukesh Kumar,0,1,1,0,0,0.0,not out,0,,False
+66176,2,Delhi Capitals,DC,10952,Khaleel Ahmed,0,0,0,0,0,0.0,,0,,False

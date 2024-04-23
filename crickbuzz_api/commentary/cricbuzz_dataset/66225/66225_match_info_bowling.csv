@@ -1,0 +1,13 @@
+match_id,inning_id,team_name,team_shortname,bowl_id,bowl_name,overs,maidens,runs,dots,wickets,economy,no_balls,wides,isOverseas
+66225,1,Chennai Super Kings,CSK,7836,D Chahar,1.0,0,10,0,0,10.0,0,0,False
+66225,1,Chennai Super Kings,CSK,11307,Tushar Deshpande,3.0,0,31,0,2,10.3,0,1,False
+66225,1,Chennai Super Kings,CSK,10172,Magala,4.0,0,37,0,1,9.2,0,0,True
+66225,1,Chennai Super Kings,CSK,10100,Santner,4.0,0,28,0,2,7.0,0,0,True
+66225,1,Chennai Super Kings,CSK,587,Ravindra Jadeja,4.0,0,20,0,3,5.0,0,0,False
+66225,1,Chennai Super Kings,CSK,8651,Pretorius,4.0,0,28,0,0,7.0,0,4,True
+66225,2,Mumbai Indians,MI,7836,D Chahar,1.0,0,10,0,0,10.0,0,0,False
+66225,2,Mumbai Indians,MI,11307,Tushar Deshpande,3.0,0,31,0,2,10.3,0,1,False
+66225,2,Mumbai Indians,MI,10172,Magala,4.0,0,37,0,1,9.2,0,0,True
+66225,2,Mumbai Indians,MI,10100,Santner,4.0,0,28,0,2,7.0,0,0,True
+66225,2,Mumbai Indians,MI,587,Ravindra Jadeja,4.0,0,20,0,3,5.0,0,0,False
+66225,2,Mumbai Indians,MI,8651,Pretorius,4.0,0,28,0,0,7.0,0,4,True
