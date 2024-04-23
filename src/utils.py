@@ -21,7 +21,7 @@ def combine_text_column(df: pd.DataFrame) -> str:
 
     return combined_text
 
-def metadata_template(match_id:int, base:str):
+def metadata_template(match_id:int, base:str, data:str):
     """
     Get the match information from the specified match ID.
 
@@ -32,7 +32,7 @@ def metadata_template(match_id:int, base:str):
     Returns:
         pd.DataFrame: The match information.
     """
-    df = pd.read_csv(base + 'data/'+str(match_id)+'_match_info.csv')
+    df = pd.read_csv(base + data + str(match_id)+'_match_info.csv')
     # Filter the DataFrame to get the match information
     match_info = df[df['match_id'] == match_id]
     year = match_info['year'].values[0]
@@ -51,6 +51,35 @@ def metadata_template(match_id:int, base:str):
 
     logger.info('Metadata template created successfully.')
     return year, team1, team2, venue, city
+
+def scorecard_template(match_id:int, base:str, data:str):
+    """
+    Get the match information from the specified match ID.
+
+    Args:
+        df (pd.DataFrame): The input DataFrame.
+        match_id (str): The match ID.
+
+    Returns:
+        pd.DataFrame: The match information.
+    """
+    df_batting = pd.read_csv(base + data + str(match_id)+'_match_info_batting.csv')
+    df_bowling = pd.read_csv(base + data + str(match_id)+'_match_info_batting.csv')
+    # Filter the DataFrame to get the match information
+    match_info = df[df['match_id'] == match_id]
+    team1 = match_info['team1'].values[0]
+    team2 = match_info['team2'].values[0]
+
+    scorecard = 'The match was played between ' + str(team1) + ' and ' + str(team2) + '.'
+
+    with open(base + 'prompt_templates/generate/scorecard.txt', 'w') as file:
+        file.write(scorecard)
+
+    with open(base + 'prompt_templates/refine/scorecard.txt', 'w') as file:
+        file.write(scorecard)
+
+    logger.info('Scorecard template created successfully.')
+    return team1, team2
 
 def count_tokens(text):
     tokenizer = AutoTokenizer.from_pretrained("microsoft/phi-2")

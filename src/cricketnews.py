@@ -49,7 +49,7 @@ if __name__ == '__main__':
 
     match = Match(data_path=base + data + commentary, save_chunk=True, chunk_dir=base + chunks)
     match.load_commentaries()
-    metadata_template(66169, base)
+    metadata_template(66173, base, data)
 
     start = time.time()
     model = Model(extractmodel)
