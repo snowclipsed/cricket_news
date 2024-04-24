@@ -5,7 +5,7 @@ from revise import revise
 from generate import generate
 from refine import refine
 from loguru import logger
-from utils import metadata_template, count_tokens
+from utils import metadata_template, count_tokens, scorecard_template
 import time
 import yaml
 import argparse
@@ -52,6 +52,7 @@ if __name__ == '__main__':
     match = Match(base + data + match_id, commentary, highlights, save_chunk=True, chunk_dir=base + chunks)
     match.load_commentaries()
     metadata_template(match_id, base, data)
+    scorecard_template(match_id, base, data)
 
     start = time.time()
     model = Model(extractmodel)

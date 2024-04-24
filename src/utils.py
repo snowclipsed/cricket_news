@@ -66,22 +66,23 @@ def scorecard_template(match_id:int, base:str, data:str):
         pd.DataFrame: The match information.
     """
     df_batting = pd.read_csv(base + data + str(match_id)+'_match_info_batting.csv')
-    df_bowling = pd.read_csv(base + data + str(match_id)+'_match_info_batting.csv')
+    df_bowling = pd.read_csv(base + data + str(match_id)+'_match_info_bowling.csv')
     # Filter the DataFrame to get the match information
-    match_info = df[df['match_id'] == match_id]
-    team1 = match_info['team1'].values[0]
-    team2 = match_info['team2'].values[0]
+    team1 = df_batting['team_name'].unique()[0]
+    team2 = df_batting['team_name'].unique()[1]
+    # print(team1, team2)
+    best_batting_team1 = df_batting[df_batting['team_name'] == team1].sort_values(by='runs', ascending=False).head(1)
+    best_bowling_team1 = df_bowling[df_bowling['team_name'] == team1].sort_values(by='wickets', ascending=False).head(1)
+    best_batting_team2 = df_batting[df_batting['team_name'] == team2].sort_values(by='runs', ascending=False).head(1)
+    best_bowling_team2 = df_bowling[df_bowling['team_name'] == team2].sort_values(by='wickets', ascending=False).head(1)
 
-    scorecard = 'The match was played between ' + str(team1) + ' and ' + str(team2) + '.'
-
-    with open(base + 'prompt_templates/generate/scorecard.txt', 'w') as file:
-        file.write(scorecard)
-
+    scorecard = 'The best batting performance for ' + str(team1) + ' was by ' + str(best_batting_team1['bat_name'].values[0]) + ' who scored ' + str(best_batting_team1['runs'].values[0]) + ' runs. ' + 'The best bowling performance for ' + str(team1) + ' was by ' + str(best_bowling_team1['bowl_name'].values[0]) + ' who took ' + str(best_bowling_team1['wickets'].values[0]) + ' wickets. ' + 'The best batting performance for ' + str(team2) + ' was by ' + str(best_batting_team2['bat_name'].values[0]) + ' who scored ' + str(best_batting_team2['runs'].values[0]) + ' runs.\n' + 'The best bowling performance for ' + str(team2) + ' was by ' + str(best_bowling_team2['bowl_id'].values[0]) + ' who took ' + str(best_bowling_team2['wickets'].values[0]) + ' wickets.'
+    
+    
     with open(base + 'prompt_templates/refine/scorecard.txt', 'w') as file:
         file.write(scorecard)
 
     logger.info('Scorecard template created successfully.')
-    return team1, team2
 
 def count_tokens(text):
     tokenizer = AutoTokenizer.from_pretrained("microsoft/phi-2")

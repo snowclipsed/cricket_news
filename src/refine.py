@@ -15,7 +15,7 @@ If the type is 'points' then llama3 will generate a summary of the combined summ
 def refine(combined_summary:str, model:Model, save_dir:str, save:bool = True):
     
     start = time.time()    
-    article = model.response(model.get_prompt_template(task='refine', type = 'metadata') + model.get_prompt_template(task='refine', type = 'article'), combined_summary )
+    article = model.response(model.get_prompt_template(task='refine', type = 'metadata') + model.get_prompt_template(task='refine', type = 'scorecard') + model.get_prompt_template(task='refine', type = 'article'), combined_summary )
     end = time.time()
     logger.info(f'Total time taken to generate: {end-start}')
     
