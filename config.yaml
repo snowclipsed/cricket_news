@@ -1,7 +1,7 @@
 paths:
   base: '/home/snow/NEU/cricket_news/'
-  data: 'dataset/'
-  match_id: '66173'
+  data: 'dataset/66211/'
+  match_id: '66211'
   commentary: '_commentary.csv'
   scorecard: '_scorecard.csv'
   highlights: '_highlights.csv'

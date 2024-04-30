@@ -30,5 +30,5 @@ def generate(combined_summary:str, model:Model, save_dir:str, save:bool = True):
             except UnicodeEncodeError:
                 logger.error('UnicodeEncodeError: Could not write to file. Saving as bytes.')
                 file.write(article.encode('utf-8'))
-        logger.info(f'Article generation saved at {save_dir}final_summary.txt.')
+        logger.info(f'Article generation saved at {save_dir}article.txt.')
     return article

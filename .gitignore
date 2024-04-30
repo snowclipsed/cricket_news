@@ -171,3 +171,6 @@ dataset/
 final_summary/
 article/
 66173_Output.zip
+article.zip
+crickbuzz_api
+crickbuzz_api/commentary/fetching_apis/get_data.py
